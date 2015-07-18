@@ -6,22 +6,8 @@
     <description>Recent content on ADPhi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2015 13:50:28 -0700</lastBuildDate>
+    <copyright>Alec Heifetz</copyright>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>about</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Fri, 17 Jul 2015 13:50:28 -0700</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;welcome:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Welcome&lt;/h1&gt;
-
-&lt;p&gt;Welcome to the homepage of ADPhi.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
