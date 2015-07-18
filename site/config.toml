@@ -1,0 +1,10 @@
+languageCode = "en-us"
+title = "ADPhi"
+theme = "hyde"
+copyright = "Alec Heifetz"
+
+[Author]
+  name = "Alec Heifetz"
+
+[Description]
+  description = "Lambda Phi chapter"
