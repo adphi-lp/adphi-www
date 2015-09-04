@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <title><%= @getPreparedTitle() %></title>
+    <%- @getBlock("meta").toHTML() %>
+    <%- @getBlock("styles").add(["/theme/poole.css"]).toHTML() %>
+    <%- @getBlock("styles").add(["/theme/syntax.css"]).toHTML() %>
+    <%- @getBlock("styles").add(["/theme/hyde.css"]).toHTML() %>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,800' rel='stylesheet' type='text/css'>
+
+    <link rel="shortcut icon" href="/favicon.png">
+
+    <%- @getBlock("styles").add(["/styles/style.css"]).toHTML() %>
+  </head>
+  <body>
+    <div class="sidebar">
+      <div class="container sidebar-sticky">
+        <div class="sidebar-about">
+          <a href="/index.html">
+            <img src="/images/crest.png" />
+          </a>
+        </div>
+        <ul class="sidebar-nav">
+          <% for title, index in @headerTitles: %>
+            <li class="active">
+              <a href="<%= @headerLinks[index] %>">
+                <h3><%= title %></h3>
+              </a>
+            </li>
+          <% end %>
+        </ul>
+      </div>
+    </div>
+    <div class="content container">
+      <%- @content %>
+    <%- @getBlock("scripts").add(["/vendor/jquery.js","/scripts/script.js"]).toHTML() %>
+  </body>
+</html>
