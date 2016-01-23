@@ -2,17 +2,19 @@
 # http://docpad.org/docs/config
 
 # Define the DocPad Configuration
+
+children = 
+  "Welcome": ['Letter from the President']
+  "Our House": ['Location', 'Amenities', 'Rooms']
+  "Rush!": ['Overview', 'Schedule', 'FAQ']
+  "Life at ADPhi": ['Culture', 'Academics', 'Activities', 'Snapchat Hall of Fame']
+  "Meet the Brothers": ['Wolfpack', 'Muses', 'Atlas', 'Celeritas/Pendulum', 'Alumni']
+
 docpadConfig = {
-  collections:
-    pages: ->
-      @getCollection("html").findAllLive({isPage:true}).on "add", (model) ->
-        model.setMetaDefaults({layout:"default"})
   templateData:
     site:
       title: "My Website"
     getPreparedTitle: -> if @document.title then "#{@document.title} | #{@site.title}" else @site.title
-    headerTitles: ["Welcome", "Our House", "Rush!", "Life at ADPhi", "Meet the Brothers"]
-    headerLinks: ["welcome.html", "house/location.html", "rush/overview.html", "life/culture.html", "brothers/all.html"]
 }
 
 # Export the DocPad Configuration

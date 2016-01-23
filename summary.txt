@@ -1,0 +1,39 @@
+---
+title: "Home"
+layout: "default"
+isPage: false
+
+---
+
+Pages:
+
+Welcome
+  Letter from the President
+Our House
+  Location
+  Rooms
+  Amenities
+Rush!
+  Overview
+    Vincent's blog post
+  Schedule
+  FAQ
+Life at ADPhi
+  Culture
+  Academics
+  Activities
+  Snapchat Hall of Fame
+Meet the Brothers
+  Wolfpack
+  Muses
+  Atlas
+  Celeritas/Pendulum
+  Alumni
+
+Welcome
+Location
+Amenities
+Rush!
+Life at ADPhi
+Brothers
+Snapchat Hall of Fame

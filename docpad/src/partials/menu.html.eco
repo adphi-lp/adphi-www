@@ -1,0 +1,12 @@
+<% renderMenu = (items) => %>
+  <ul class="sidebar-nav">
+    <%= console.log(items) %>
+    <% for item in items: %>
+      <li class="active">
+        <h3><a href="<%= item.url %>"><%= item.title %></a></h3>
+      </li>
+    <% end %>
+  </ul>
+<% end %>
+<!-- Run `renderMenu` partial aginst passed `menuItems` meta-data  -->
+<%= renderMenu @menuItems %>

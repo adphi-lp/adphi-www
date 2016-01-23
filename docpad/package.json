@@ -8,7 +8,10 @@
     "docpad-plugin-eco": "~2.1.0",
     "docpad-plugin-livereload": "~2.6.1",
     "docpad-plugin-marked": "~2.3.0",
-    "docpad-plugin-stylus": "~2.9.0"
+    "docpad-plugin-menu": "~2.1.0",
+    "docpad-plugin-partials": "~2.9.2",
+    "docpad-plugin-stylus": "~2.9.0",
+    "docpad-plugin-thumbnails": "~2.1.2"
   },
   "main": "node_modules/.bin/docpad-server",
   "scripts": {

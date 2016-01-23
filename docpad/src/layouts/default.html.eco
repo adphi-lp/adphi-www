@@ -2,6 +2,7 @@
   <head>
     <title><%= @getPreparedTitle() %></title>
     <%- @getBlock("meta").toHTML() %>
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">-->
     <%- @getBlock("styles").add(["/theme/poole.css"]).toHTML() %>
     <%- @getBlock("styles").add(["/theme/syntax.css"]).toHTML() %>
     <%- @getBlock("styles").add(["/theme/hyde.css"]).toHTML() %>
@@ -21,18 +22,13 @@
             <img src="/images/crest.png" />
           </a>
         </div>
-        <ul class="sidebar-nav">
-          <% for title, index in @headerTitles: %>
-            <li class="active">
-              <a href="<%= @headerLinks[index] %>">
-                <h3><%= title %></h3>
-              </a>
-            </li>
-          <% end %>
-        </ul>
+        <%- @partial('menu.html.eco', {menuItems: @generateMenu(@document.url, "html")}) %>
       </div>
     </div>
     <div class="content container">
+      <h1><%= @document.title %></h1>
+      <br />
+      <br />
       <%- @content %>
     <%- @getBlock("scripts").add(["/vendor/jquery.js","/scripts/script.js"]).toHTML() %>
   </body>
