@@ -13,8 +13,11 @@ children =
 docpadConfig = {
   templateData:
     site:
-      title: "My Website"
+      title: "MIT ADPhi"
     getPreparedTitle: -> if @document.title then "#{@document.title} | #{@site.title}" else @site.title
+  plugins:
+    thumbnails:
+      imageMagick: true
 }
 
 # Export the DocPad Configuration
