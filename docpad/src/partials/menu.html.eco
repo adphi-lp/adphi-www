@@ -1,9 +1,8 @@
 <% renderMenu = (items) => %>
   <ul class="sidebar-nav">
-    <%= console.log(items) %>
     <% for item in items: %>
       <li class="active">
-        <h3><a href="<%= item.url %>"><%= item.title %></a></h3>
+        <h3><a class="sidebar-nav-item" href="<%= item.url %>"><%= item.title %></a></h3>
       </li>
     <% end %>
   </ul>
