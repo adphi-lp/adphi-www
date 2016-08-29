@@ -56,6 +56,29 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
+  background-color: #00622c;
+}
+@media (min-width: 48em) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 18rem;
+    text-align: left;
+  }
+}
+
+/* Sidebar links */
+.sidebar a {
+  color: #fff;
+}
+
+/* About section */
+.sidebar-header h1 {
+  color: #fff;
+  margin-top: 0;
+  font-weight:300;
 }
 
 /* Sidebar nav */
@@ -134,7 +157,7 @@ a.sidebar-nav-item:focus {
   display:inline;
   vertical-align: bottom;
 }
- 
+
 .badges {
   float: right;
 }
