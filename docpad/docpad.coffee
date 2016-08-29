@@ -3,7 +3,7 @@
 
 # Define the DocPad Configuration
 
-children = 
+children =
   "Welcome": ['Letter from the President']
   "Our House": ['Location', 'Amenities', 'Rooms']
   "Rush!": ['Overview', 'Schedule', 'FAQ']

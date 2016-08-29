@@ -2,7 +2,6 @@
   <head>
     <title><%= @getPreparedTitle() %></title>
     <%- @getBlock("meta").toHTML() %>
-    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">-->
     <%- @getBlock("styles").add(["/theme/poole.css"]).toHTML() %>
     <%- @getBlock("styles").add(["/theme/syntax.css"]).toHTML() %>
     <%- @getBlock("styles").add(["/theme/hyde.css"]).toHTML() %>
@@ -16,7 +15,7 @@
   </head>
   <body>
     <div class="sidebar">
-      <div class="container sidebar-sticky">
+      <div class="sidebar-sticky">
         <div class="sidebar-header">
           <a href="/index.html">
             <img src="/images/crest.png" />

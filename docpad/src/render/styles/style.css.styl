@@ -1,13 +1,32 @@
 body
   font-family: "Raleway", sans-serif
+  font-size: 16px;
+  line-height: 1.5;
+
+a
+  text-decoration: none;
+  hover
+    text-decoration: underline;
+
+.sidebar
+  background-color: #00622c
+  color: white;
+  font-family: "Raleway", sans-serif;
+  h1
+    margin-top: 0;
+    font-weight: 300;
+  h4
+    font-weight: 400;
+  @media (min-width: 48em)
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    text-align: center
+    top: 0;
+    width: 8em;
 
 .sidebar-sticky
-  text-align: left
-
-.sidebar h3
-  color: white
-  font-family: "Raleway", sans-serif
-  font-weight: 400
+  text-align: center
 
 .col
   display: inline-block
