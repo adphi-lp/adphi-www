@@ -220,3 +220,8 @@ Invite only.
 <div align="left" class="prev">
   <a href="/brothers.html">Previous: Brothers</a>
 </div>
+<div align="right" class="next">
+  <a href="/summer.html">Next: Summer</a>
+</div>
+
+</div>

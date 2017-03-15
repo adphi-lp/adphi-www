@@ -8,7 +8,7 @@ menuOrder: 1
 
 <div class="content-big container">
 
-<h3><a href="/rush.html">Looking for our 2016 Rush schedule? Click here!</a></h3>
+<h3><a href="/summer.html">Looking for information on summer housing? Click here!</a></h3>
 <br />
 <br />
 
