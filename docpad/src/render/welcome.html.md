@@ -6,23 +6,45 @@ menuOrder: 1
 
 ---
 
+<div class="content-big container">
+
+<h3><a href="/rush.html">Looking for our 2016 Rush schedule? Click here!</a></h3>
+<br />
+<br />
+
+<h1>Letter from the President</h1>
+<br />
+
 <img src="/images/composite.jpg">
 
 *Our most recent composite photo*
+<br />
 
 <h3>Welcome!</h3>
 
-If you're reading this, chances are you're a freshman looking to learn more about ADPhi. As one of MIT's largest and most successful fraternities, the MIT chapter of Alpha Delta Phi has thrived over the past 4 decades at our historic <a href="/location.html">Mass Ave home</a> in Cambridge, Massachusetts.
+How many times in your life have you found yourself asking yourself the following question: how can I become the best I can be? If you’re like most of us, chances are that, as much as you’d like to ask, there just is never enough time or concentration available to do so. It’s MIT. Classes are challenging, research and extracurriculars are everywhere, and in this vortex time is always escaping. That’s where Alpha Delta Phi comes in.
+<br />
+<br />
 
-Also known as the "Lambda Phi" chapter, our house boasts a friendly and passionate group of brothers from all interests and backgrounds. As a "literary fraternity", Alpha Delta Phi believes in developing the whole man: morally, socially, and intellectually, and while we're still just as much engineers as the rest of MIT, we try and emphasize our creativity and leadership more than the traditional MIT student.
+Here at the Lambda Phi chapter of Alpha Delta Phi we ask ourselves these types of questions and take action and inspiration from them. Boasting a diverse population of multiple cultures and personalities, ADPhi’s mission is to have every single member become the best that they can be. Each brother, by making a promise to brotherhood, is committed to supporting his brethren in striving towards academic, ethical, and personal goals, all while maintaining a vibrant and eclectic social atmosphere that accommodates a multitude of interests.
+<br />
+<br />
 
-However, the most important aspect of Alpha Delta Phi is our strength as a brotherhood and as a family. More than anywhere else on campus, I felt that Alpha Delta Phi was a place where I could grow into the man that I would become and have a group of brothers who would support and encourage me the whole way, no matter which way that was. I'm happy to say I made the right choice.
+Want to talk about great poetic works? Then come to, or even take part in, one of our literary pub nights to see us live up to our title as a literary fraternity. Want to decide classes for the semester or look for internship and/or research opportunities over the summer? Then browse our academic wiki, updated yearly with study tips and resources, or reach out to our vast award-winning alumni network that stretches from Silicon Valley to Wall Street to academia and all across the world. Want to commit to self-improvement and becoming the very best you can be? Then come drop by 351 Massachusetts Ave. in Cambridge and meet the brothers of Alpha Delta Phi. Find out what it means to be an Alpha Delt.
+<br />
+<br />
 
-*Alec Heifetz, LP '16, President*
+*Omar Ibarra, LP '17, President*
+<br />
+<br />
 
-Please take a look through the site to learn more about <a href="/location.html">where we live</a>, <a href="/house.html">our house</a>, and <a href="/rush.html">our rush schedule</a>. More sections coming soon!
+Please take a look through the site to learn more about <a href="/location.html">where we live</a>, <a href="/house.html">our house</a>, <a href="/brothers.html">our brothers</a>, and <a href="/rush.html">our rush schedule</a>. More sections coming soon!
+
+<br />
+<br />
 
 <div align="left" class="next">
   <a href="/location.html">Next: Location</a>
 </div>
 
+</div>

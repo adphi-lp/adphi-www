@@ -3,7 +3,6 @@
     <title><%= @getPreparedTitle() %></title>
     <%- @getBlock("meta").toHTML() %>
     <%- @getBlock("styles").add(["/theme/poole.css"]).toHTML() %>
-    <%- @getBlock("styles").add(["/theme/syntax.css"]).toHTML() %>
     <%- @getBlock("styles").add(["/theme/hyde.css"]).toHTML() %>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
@@ -24,11 +23,7 @@
         <%- @partial('menu.html.eco', {menuItems: @generateMenu(@document.url, "html")}) %>
       </div>
     </div>
-    <div class="content container">
-      <h1><%= @document.title %></h1>
-      <br />
-      <br />
-      <%- @content %>
+    <%- @content %>
     <%- @getBlock("scripts").add(["/vendor/jquery.js","/scripts/script.js"]).toHTML() %>
   </body>
 </html>

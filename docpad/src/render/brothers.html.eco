@@ -1,0 +1,423 @@
+---
+title: "Brothers"
+layout: "default"
+menuOrder: 4
+
+---
+
+<div class="content-big container">
+
+<h1>Brothers</h1>
+<br />
+
+<i>*Editor's Note: Paolo Gentili and Van Phu did not submit photos so their photos have been replaced with ones of shirtless Matt Vernacchia.</i>
+
+<br /><br />
+
+<h2>Nomads</h2>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/nomads/alasdair_unwin.jpg', 'brother') %>">
+Alasdair "Tom" Unwin<br />
+<i>The Whole Man</i><br />
+CME 2016
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/nomads/chien_hsun_chang.jpg', 'brother') %>">
+Chien-Hsun "Vincent" Chang<br />
+<i>50 Cent</i><br />
+2018
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/nomads/chris_hillenbrand.jpg', 'brother') %>">
+Chris Hillenbrand<br />
+<i>911</i><br />
+2019
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/nomads/henry_wu.jpg', 'brother') %>">
+Henry Wu<br />
+<i>The Delta Function</i><br />
+2018
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/nomads/mark_wang.jpg', 'brother') %>">
+Mark Wang<br />
+<i>The Wanger</i><br />
+2018
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/nomads/mike_wang.jpg', 'brother') %>">
+Mike "Legendary" Wang<br />
+<i>The Doppelwanger</i><br />
+2019
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/nomads/tharindu_withanage.jpg', 'brother') %>">
+Tharindu "T-Dawg" Withanage<br />
+<i>Marbles</i><br />
+2019
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/nomads/tugsuu_manlaibaatar.jpg', 'brother') %>">
+Tugsuu Manlaibaatar<br />
+<i>The Headsplitter</i><br />
+2019
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/nomads/van_phu.jpg', 'brother') %>">
+Van Phu*<br />
+<i>The Vandal</i><br />
+2018
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/nomads/wei_wu.jpg', 'brother') %>">
+Wei Wu<br />
+<i>The Frisk Manager</i><br />
+2019
+</span>
+
+<h2>Wolfpack</h2>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/wolfpack/akshat_bubna.jpg', 'brother') %>">
+Akshat Bubna<br />
+<i>Stacked</i><br />
+2018
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/wolfpack/andrew_xu.jpg', 'brother') %>">
+Andrew Xu<br />
+<i>Bumble Bee</i><br />
+2017
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/wolfpack/bojan_serafimov.jpg', 'brother') %>">
+Bojan Serafimov<br />
+<i>Bean Salad</i><br />
+2018
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/wolfpack/dexin_chen.jpg', 'brother') %>">
+De Xin Chen<br />
+<i>Insanity</i><br />
+2018
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/wolfpack/jiahao_li.jpg', 'brother') %>">
+Jiahao Li<br />
+<i>Barney</i><br />
+2018
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/wolfpack/john_peurifoy.jpg', 'brother') %>">
+John Peurifoy<br />
+<i>Awesomesauce</i><br />
+2018
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/wolfpack/mike_wang.jpg', 'brother') %>">
+Mike "Champ" Wang<br />
+<i>Golden</i><br />
+2018
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/wolfpack/paolo_gentili.jpg', 'brother') %>">
+Paolo Gentili*<br />
+<i>Mopper</i><br />
+2018
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/wolfpack/robert_burklund.jpg', 'brother') %>">
+Robert Burklund<br />
+<i>BUSter</i><br />
+2018
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/wolfpack/sourav_das.jpg', 'brother') %>">
+Sourav Das<br />
+<i>Silver Finger</i><br />
+2018
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/wolfpack/stephen_li.jpg', 'brother') %>">
+Stephen Li<br />
+<i>ParKing</i><br />
+2018
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/wolfpack/victor_oliveira.jpg', 'brother') %>">
+Victor Oliveira<br />
+<i>Puddle</i><br />
+2018
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/wolfpack/tomohiro_soejima.jpg', 'brother') %>">
+Tomohiro "Tomo" Soejima<br />
+<i>Pipes</i><br />
+2017
+</span>
+
+<h2>Muses</h2>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/muses/anchen_yao.jpg', 'brother') %>">
+Anchen Yao<br />
+<i>Moby Richards</i><br />
+2017
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/muses/james_deng.jpg', 'brother') %>">
+James Deng<br />
+<i>Ohh Deng...</i><br />
+2017
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/muses/james_rowan.jpg', 'brother') %>">
+James Rowan<br />
+<i>Pentagon</i><br />
+2017
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/muses/jesus_gonzalez.jpg', 'brother') %>">
+Jesus Gonzalez<br />
+<i>Prince Phillip</i><br />
+2017
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/muses/jerome_file.jpg', 'brother') %>">
+Jerome "JJ" File<br />
+<i>Pop It!</i><br />
+2017
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/muses/omar_ibarra.jpg', 'brother') %>">
+Omar Ibarra<br />
+<i>The Void</i><br />
+2017
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/muses/peinan_chen.jpg', 'brother') %>">
+Peinan Chen<br />
+<i>Tea Bag</i><br />
+2016
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/muses/rishad_rahman.jpg', 'brother') %>">
+Rishad Rahman<br />
+<i>The Other One</i><br />
+2017
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/muses/sam_matthews.jpg', 'brother') %>">
+Sam Matthews<br />
+<i>Little Michael</i><br />
+2017
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/muses/vincent_anioke.jpg', 'brother') %>">
+Vincent Anioke<br />
+<i>T-Swizzle</i><br />
+2017
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/muses/will_wong.jpg', 'brother') %>">
+Will Wong<br />
+<i>Snorlax</i><br />
+2017
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/muses/yuchen_fu.jpg', 'brother') %>">
+Yuchen "Charles" Fu<br />
+<i>Oedipus</i><br />
+2017
+</span>
+
+<h2>Atlas</h2>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/atlas/ahmed_eltahir.jpg', 'brother') %>">
+Ahmed Eltahir<br />
+<i>Road Rage</i><br />
+2016
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/atlas/alec_heifetz.jpg', 'brother') %>">
+Alec "Heify" Heifetz<br />
+<i>Piss In Boots</i><br />
+2016
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/atlas/ani_sailesh.jpg', 'brother') %>">
+Anirudh "Ani" Sailesh<br />
+<i>Rabbit</i><br />
+2016
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/atlas/kamphol_akkaravarawong.jpg', 'brother') %>">
+Kamphol "Best" Akkaravarawong<br />
+<i>Newton</i><br />
+2016
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/atlas/faruk_parhat.jpg', 'brother') %>">
+Faruk Parhat<br />
+<i>Herp Derp</i><br />
+2016
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/atlas/hao_xing.jpg', 'brother') %>">
+Hao Xing<br />
+<i>Dicktionary</i><br />
+2016
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/atlas/jeff_bu.jpg', 'brother') %>">
+Jeff Bu<br />
+<i>iOS6</i><br />
+2016
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/atlas/raku_watari.jpg', 'brother') %>">
+Raku Watari<br />
+<i>Domo Ma</i><br />
+2016
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/atlas/richard_hsu.jpg', 'brother') %>">
+Richard Hsu<br />
+<i>Double D</i><br />
+2016
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/atlas/robi_bhattacharjee.jpg', 'brother') %>">
+Robi Bhattacharjee<br />
+<i>Clothing Optional</i><br />
+2016
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/atlas/ruifan_pei.jpg', 'brother') %>">
+Ruifan Pei<br />
+<i>Heavy D</i><br />
+2016
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/atlas/oleksandr_chaykovskyy.jpg', 'brother') %>">
+Oleksandr Chaykovskyy<br />
+<i>IDGAF</i><br />
+2016
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/atlas/scott_mcdonald.jpg', 'brother') %>">
+Scott McDonald<br />
+<i>Wolfman</i><br />
+2016
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/atlas/william_spitzer.jpg', 'brother') %>">
+William Spitzer<br />
+<i>Wet Willy</i><br />
+2016
+</span>
+
+<h2>Old Fucks</h2>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/celeritas/alex_jaffe.jpg', 'brother') %>">
+Alex Jaffe<br />
+<i>Zeus</i><br />
+2015 (M.Eng 2016)
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/celeritas/alex_siegenfeld.jpg', 'brother') %>">
+Alex Siegenfeld<br />
+<i>Moral Compass</i><br />
+2015 (PhD 20??)
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/celeritas/jeff_shen.jpg', 'brother') %>">
+Jeff Shen<br />
+<i>Troll Pony</i><br />
+2015 (M.Eng 2016)
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/celeritas/matt_vernacchia.jpg', 'brother') %>">
+Matt Vernacchia<br />
+<i>Inkblot</i><br />
+2015 (M.S. 2017)
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/pendulum/marcel_williams.jpg', 'brother') %>">
+Marcel Williams<br />
+<i>G-Force</i><br />
+2014 (M.S. 2016)
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/pendulum/ryan_king_shepard.jpg', 'brother') %>">
+Ryan King-Shepard<br />
+<i>The "O"rator</i><br />
+2016
+</span>
+
+<br />
+<br />
+
+<div align="left" class="prev">
+  <a href="/house.html">Previous: House</a>
+</div>
+
+<div align="right" class="next">
+  <a href="/rush.html">Next: Rush!</a>
+</div>
+
+</div>

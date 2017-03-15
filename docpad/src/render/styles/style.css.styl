@@ -1,6 +1,6 @@
 body
   font-family: "Raleway", sans-serif
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.5;
 
 a
@@ -8,29 +8,49 @@ a
   hover
     text-decoration: underline;
 
+img
+  display: block;
+  margin: 0 0 1rem;
+  border-radius: 5px;
+  max-width: 100%;
+
+.sidebar-nav-item
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  color: white;
+
 .sidebar
   background-color: #00622c
-  color: white;
-  font-family: "Raleway", sans-serif;
+  padding: 2rem 1rem;
   h1
     margin-top: 0;
     font-weight: 300;
-  h4
+  h3
     font-weight: 400;
-  @media (min-width: 48em)
+  @media (min-width: 768px)
     bottom: 0;
     left: 0;
     position: fixed;
-    text-align: center
     top: 0;
-    width: 8em;
+    width: 10rem;
 
 .sidebar-sticky
-  text-align: center
+  @media (min-width: 768px)
+    position: absolute;
+    right:  1rem;
+    top: 1rem;
+    left:   1rem;
 
 .col
   display: inline-block
+  padding-right: 10px;
+  margin-bottom: 5px;
+  text-align: center
+
+.col-small
+  display: inline-block
   padding-right: 7px
+  text-align: center
 
 .next
   float: right
@@ -40,3 +60,45 @@ a
   float: left
   margin-bottom: 50px
 
+.day
+  padding-right: 25px
+
+@media (min-width: 48em) {
+  .content {
+    max-width: 38rem;
+    margin-left: 12rem;
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 64em) {
+  .content {
+    max-width: 44rem;
+    margin-left: 12rem;
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 48em) {
+  .content-big {
+    max-width: 38rem;
+    margin-left: 12rem;
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 64em) {
+  .content-big {
+    max-width: 66rem;
+    margin-left: 12rem;
+    margin-right: 0rem;
+  }
+}
+
+.content
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+
+.content-big
+  padding-top: 2rem;
+  padding-bottom: 2rem;

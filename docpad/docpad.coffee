@@ -16,7 +16,11 @@ docpadConfig = {
       title: "MIT ADPhi"
     getPreparedTitle: -> if @document.title then "#{@document.title} | #{@site.title}" else @site.title
   plugins:
-    thumbnails:
+    imagin:
+      presets:
+        'brother':
+          w: 400
+          h: 400
       imageMagick: true
 }
 
