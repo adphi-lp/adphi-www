@@ -4,7 +4,7 @@
     <%- @getBlock("meta").toHTML() %>
     <%- @getBlock("styles").add(["/theme/poole.css"]).toHTML() %>
     <%- @getBlock("styles").add(["/theme/hyde.css"]).toHTML() %>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" charset="utf-8">
 
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,800' rel='stylesheet' type='text/css'>
 
