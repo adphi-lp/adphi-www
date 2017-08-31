@@ -24,6 +24,27 @@ Aditya Gopalan<br />
 </span>
 
 <span class="col">
+<img src="<%= @getThumbnail('/images/poseidon/alex_patton.jpg', 'brother') %>">
+Alex Patton<br />
+<i>TBA</i><br />
+2018
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/poseidon/alexis_camacho.jpg', 'brother') %>">
+Alexis Camacho<br />
+<i>TBA</i><br />
+2020
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/poseidon/arsen_vasilyan.png', 'brother') %>">
+Arsen Vasilyan<br />
+<i>TBA</i><br />
+2019
+</span>
+
+<span class="col">
 <img src="<%= @getThumbnail('/images/poseidon/eivind_eide.jpg', 'brother') %>">
 Eivind Eide<br />
 <i>Skim Milk</i><br />
@@ -31,8 +52,22 @@ Eivind Eide<br />
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/poseidon/raimundo_rodriguez.jpg', 'brother') %>">
-Raimundo Rodriguez<br />
+<img src="<%= @getThumbnail('/images/poseidon/janak_agrawal.jpg', 'brother') %>">
+Janak Agrawal<br />
+<i>TBA</i><br />
+2019
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/poseidon/joey_muller.jpg', 'brother') %>">
+Joey Muller<br />
+<i>TBA</i><br />
+2019
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/poseidon/johnny_gao.jpg', 'brother') %>">
+Johnny Gao<br />
 <i>TBA</i><br />
 2020
 </span>
@@ -45,8 +80,43 @@ Jon "King" Ching<br />
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/poseidon/alexis_camacho.jpg', 'brother') %>">
-Alexis Camacho<br />
+<img src="<%= @getThumbnail('/images/poseidon/joseph_kuan.png', 'brother') %>">
+Joseph Kuan<br />
+<i>TBA</i><br />
+2019
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/poseidon/kenny_yang.png', 'brother') %>">
+Kenny Yang<br />
+<i>TBA</i><br />
+2020
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/poseidon/kevin_wang.jpg', 'brother') %>">
+Kevin Wang<br />
+<i>TBA</i><br />
+2018
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/poseidon/raimundo_rodriguez.jpg', 'brother') %>">
+Raimundo Rodriguez<br />
+<i>TBA</i><br />
+2020
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/poseidon/thulith_edirisinghe.png', 'brother') %>">
+Thulith Edirisinghe<br />
+<i>TBA</i><br />
+2019
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/poseidon/yotaro_sueoka.png', 'brother') %>">
+Yotaro Sueoka<br />
 <i>TBA</i><br />
 2020
 </span>
