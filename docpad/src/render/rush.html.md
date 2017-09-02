@@ -9,7 +9,7 @@ menuOrder: 5
 <h1>Rush!</h1>
 <br />
 
-Welcome to our schedule for Rush 2016! All events are at 351 Massachusetts Avenue in Cambridge unless otherwise noted. Call John at (417) 693-4622 for a ride!
+Welcome to our schedule for Rush 2016! All events are at 351 Massachusetts Avenue in Cambridge unless otherwise noted. Call us at (781) 330-8118 for a ride!
 
 
 <br />
@@ -35,168 +35,156 @@ Welcome to our schedule for Rush 2016! All events are at 351 Massachusetts Avenu
 <br />
 
 <a name="saturday"></a>
-## Saturday, September 3rd
+## Saturday, September 2nd
 
 <br />
 
-#### 12:30pm-1:00pm: Hot Crosswalk Buns (77 Mass Ave)
+#### 12:30pm-1:00pm: Hot Crosswalk Buns
 
 Hot buns! Hot buns! Come and get your hot buns!
 
-#### 12:30pm-2:00pm: Cannolis, Pastries, and Other Treats
+#### 12:30pm-2:00pm: Infinite Sushi
 
-Cannolis are a staple of any <a href="http://www.modernpastry.com/">Modern</a> diet, and we've got em! Lots. Of. Them.
+Literally.
 
-#### 2:00pm-4:00pm: Video Game Tournament
-
-We've got the only two things that you need for rush and life: food and games. Come to ADPhi and kick off rush the right way by engorging inane amounts of food and binging on games all day.
-
-#### 4:00pm-6:00pm: Puzzle Hunt
+#### 2:00pm-4:00pm: Puzzle Hunt
 
 MIT students solve problems. How to achieve nuclear fission, how to connect 7 billion people at one time, and how to put a car on a dome. Let's relax and solve some slightly easier ones while drinking smoothies!
 
-#### 6:00pm-7:00pm: The Original Steak and Lobster
+#### 4:00pm-6:00pm: Hot Tub and House Tours
 
-50 years have passed since the inception of our famous Steak & Lobster dinner, oft stolen but never done justice. Come and partake in an MIT tradition, our semicentennnial dinner; mountains of steak, lobster, and bibs will be included!
+Nuff said.
 
-#### 7:30pm-9:00pm: Comedian
+#### 6:00pm-7:00pm: The Original Steak &amp; Lobster
 
-Have a penchant for humour? No? Then come to ADPhi and come enjoy one of Boston's best improv comedians, we guarantee you won't make it out without at least a snicker. *note: those with a sense of humour are also welcome
+50 years have passed since the inception of our famous Steak &amp; Lobster dinner, often stolen but never done justice. Come and partake in an MIT tradition, our semicentennnial dinner; mountains of steak, lobster, and bibs will be included!
 
-#### 10:00pm-1:00am: Underground Capture the Flag
+#### 7:30pm-9:00pm: Casino Royale
 
-As the perennial torchbearer of traditions during rush, ADPhi is proud to present yet another rendition of our infamous, campus-wide capture-the-flag game. Run through tunnels and stairs with hundreds of your classmates in MIT's biggest event.
+1. Poker
+2. Prizes
+3. ???
+4. Profit
 
-#### 1:00am-3:00am: Infinite Crepes
+#### 10:00pm-1:00am: Underground CTF
 
-Where do all these crepes come from? How are we able to have infinite crepes given finite resources, means of production, and space? The world may never know.
+Lobby 7 at 10PM.
+
+#### 1:00am-3:00am: Smoothies and Crepes
 
 <br />
 
 <a name="sunday"></a>
-## Sunday, September 4th
+## Sunday, September 3rd
 
 <br />
 
-#### 11:00am-1:00pm: Lunch
+#### 11:00am-12:00pm: Lunch
 
-Wake up with a brunch served by our personal chef!
-
-#### 12:30pm-3:00pm: X-treme Trampolining
+#### 12:00pm-2:30pm: X-treme Trampolining
 
 Come explore your fetish for extremities by trampolining everywhere, from the walls lined with trampolines to the infinite expanse beneath you which you can jump on forever.
 
-#### 3:00pm-5:00pm: Pirate Battle on the Charles
+#### 3:00pm-5:00pm: Soccer
 
-We all came to MIT for one reason: to become pirates. Bring your wooden leg and annoying bird and we'll supply you with a boat, some booty, and enough water power to take down a frigate.
+Not football.
+
+#### 6:00pm-7:00pm: Dinner
 
 #### 7:00pm-10:00pm: Indoor Skydiving
 
 We wish we could throw you off a plane, but we've got the next best thing: a 150 mph wind tunnel for you to perpetually fall in.
 
-#### 11:00pm-1:00am: IHOP Run
+#### 11:00pm-1:00am: Midnight IHOP
 
-There's a reason its open 24/7. Let's go find out why!
+There's a reason its open 24/7.
 
 <br />
 
 <a name="monday"></a>
-## Monday, September 5th
+## Monday, September 4th
 
 <br />
 
-#### 10:00am-11:00am: Free Coffee, Free Tea
+#### 10:00am-11:00am: Alpha Go
 
-Too early? Yes. Coffee and tea will fix that right up.
+I, for one, welcome our go-playing overlords.
 
-#### 12:00pm-1:00am: Lunch
+#### 11:00am-12:00pm: Lunch
 
-Wake up with a brunch served by our personal chef!
-
-#### 1:00pm-5:00pm: Paintball
+#### 12:00pm-4:00pm: Paintball
 
 Alas, blessed and cursed be those who cannot be the hero of a Battlefield-like narrative. Luckily we have the next best thing: a game of paintball for you to dominate and be the true hero that this country deserves.
 
-#### 5:00pm-6:00pm: Facetious Fraternity Fun: LN2 Ice Cream
+#### 5:00pm-6:00pm: LN2 Ice Cream
 
-Do you want to dip foods into liquid nitrogen? Come to ADPhi and be immersed in an MIT winter kingdom.
+Do you want to dip foods into liquid nitrogen? Come to ADPhi and be immersed in an MIT-type winter kingdom.
 
-#### 6:00pm-7:00am: Dinner
+#### 6:00pm-7:00pm: Dinner
 
-Hungry? Of course! Come fix that with a lot of tasty food prepared by our house's own chef!
+#### 7:00pm-9:00pm: Central Rock Climbing
 
-#### 7:00pm-9:00pm: Rock Climbing
+Those biceps aren't gonna grow themselves. Join us and lets solve some bouldering and top roping puzzles together!
 
-Those biceps aren't gonna grow themselves. Join us and lets solve some bouldering puzzles together!
+#### 10:00pm-1:00am: Paris, 1927
 
-#### 10:00pm-1:00am: ADPhi Presents: Hyperthermia
-
-The parties at ADPhi don’t stop for classes. End the summer with classic energy-infused mocktails and pump some adrenaline into the dance floor with dope beats provided by DJ Pharaoh and DJ Pool. Then take a chill pill and relax over some great party games, win some money in prize poker, or even sing your heart out at karaoke. Oh, and of course plenty of savory party food will be provided to maintain sustenance throughout this epic night.
+Indulge in the finer things in life: enjoy some live jazz, billiards, and our infinity table.
 
 <br />
 
 <a name="tuesday"></a>
-## Tuesday, September 6th
+## Tuesday, September 5th
 
 <br />
 
-#### 10:00am-11:00am: Free Coffee, Free Tea
+#### 12:00pm-1:00pm: Lunch
 
-Too early? Yes. Coffee and tea will fix that right up.
+#### 1:00pm-4:00pm: Codzilla Speedboat
 
-#### 12:00pm-1:00am: Lunch
+A thrill a minute as you scream across the Boston Harbor at up to 40 MPH, with a few hairpin turns and 360-degree spins thrown in for evil measure.
 
-Wake up with a brunch served by our personal chef!
+#### 3:00pm-5:00pm: Board Games
 
-#### 1:00pm-3:00pm: Kayaking on the Charles
+Come play some board games with the brothers of Alpha Delta Phi!
 
-Few things in life compare with the breathtakingly gorgeous scenery that a tootle on the Charles gives you. Come and kayak from sunny light to the onset of sunset.
+#### 5:00pm-6:00pm: Dinner
 
-#### 3:00pm-5:00pm: Pokemon, Puppies, and Paint Bar
+#### 6:00pm-9:00pm: Batting Cages &amp; Mini Golf
 
-Still remember pokemon go? We don't! (But our rush chair deployed some lure modules anyway). Want to learn how to paint like a fraternity brother? Us too! Oh, and we also have puppies.
-
-#### 6:00pm-9:00pm: Batting Cages and Mini Golf
-
-Ever been pressured by your dad to play baseball or golf? If so then good news, we've kept the fun parts of the classic American sports and gotten rid of the old boring ones.
+We've kept the fun parts of the classic American sports and gotten rid of the old boring ones.
 
 #### 9:00pm-11:00pm: Chicken and Waffles
 
-Chicken + Waffles. Nugh Said. Swing by and grab some!
+What more is there left to say?
 
 <br />
 
 <a name="wednesday"></a>
-## Wednesday, September 7th
+## Wednesday, September 6th
 
 <br />
 
-#### 9:00am-11:00am: Free Coffee, Free Tea
 
-Too early? Yes. Coffee and tea will fix that right up.
+#### 9:00am-11:00am: Brunch
 
-#### 12:00pm-1:00am: Lunch
+#### 6:00pm-7:00pm: Alumni Networking Dinner
 
-Wake up with a brunch served by our personal chef!
+Come talk to our alums and gain valuable connections and advice to go along with your great meal.
 
-#### 6:00pm-8:00pm: Alumni Networking Dinner (Invite Only)
-
-Come talk to our alums and gain valuable connections and advice to go along with your great meal. Invite only.
+Invite only.
 
 #### 8:00pm-9:00pm: Boba Tea
-
-Come and debate the only important question with the food scholars of ADPhi: are you supposed to eat the jellies in boba or not?
 
 <br />
 
 <a name="thursday"></a>
-## Thursday, September 8th
+## Thursday, September 7th
 
 <br />
 
-#### 7:00pm-8:30pm: Sumo Wrestling Grillout
+#### 7:00pm-8:30pm: Grillout at ADP
 
-School is hard! We all study too much! Come relax with ADPhi and let us enjoy the summer while it is still here! Summa Wrestling included. Oh, and if you want to still talk physics, we definitely got you covered.
+Enjoy the grilled flesh of vegetable eating organisms.
 
 #### 8:30pm-10:00pm: Cafe Thursday
 
@@ -205,14 +193,13 @@ Explore your literary side with ADPhi's best scholars. Cider, cheeses, and bread
 <br />
 
 <a name="friday"></a>
-## Friday, September 9th
+## Friday, September 8th
 
 <br />
 
-#### 6:00pm: Bid Dinner
+#### 6:00pm-12:00am: Bid Dinner
 
 Invite only.
-
 
 <br />
 <br />
