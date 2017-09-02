@@ -38,6 +38,13 @@ Alexis Camacho<br />
 </span>
 
 <span class="col">
+<img src="<%= @getThumbnail('/images/poseidon/anuj_apte.png', 'brother') %>">
+Anuj Apte<br />
+<i>TBA</i><br />
+2019
+</span>
+
+<span class="col">
 <img src="<%= @getThumbnail('/images/poseidon/arsen_vasilyan.png', 'brother') %>">
 Arsen Vasilyan<br />
 <i>TBA</i><br />
