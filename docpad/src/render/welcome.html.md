@@ -17,7 +17,6 @@ menuOrder: 1
 <br />
 <br />
 
-<!--
 How many times in your life have you found yourself asking yourself the following question: how can I become the best I can be? If you’re like most of us, chances are that, as much as you’d like to ask, there just is never enough time or concentration available to do so. It’s MIT. Classes are challenging, research and extracurriculars are everywhere, and in this vortex time is always escaping. That’s where Alpha Delta Phi comes in.
 <br />
 <br />
@@ -31,23 +30,6 @@ Want to talk about great poetic works? Then come to, or even take part in, one o
 <br />
 
 *Omar Ibarra, LP '17, President*
-<br />
-<br />
--->
-
-Welcome to Alpha Delta Phi, the frattiest frat at MIT that ever there was. Give me one second, I've gotta get void raids. What do we have so far, the frattiest frat that ever there was?
-<br />
-<br />
-
-There's not that much to say about Alpha Delta Phi that hasn't been said by other people. You walk into Alpha Delta Phi and you know you're in Alpha Delta Phi, you know? #frathard.
-<br />
-<br />
-
-*Signed off,*
-<br />
-*President of Alpha Delta Phi*
-<br />
-*John Peurifoy, LP '18*
 <br />
 <br />
 
