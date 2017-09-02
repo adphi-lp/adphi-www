@@ -29,7 +29,7 @@ Want to talk about great poetic works? Then come to, or even take part in, one o
 <br />
 <br />
 
-*Omar Ibarra, LP '17, President*
+*John Peurifoy, LP '18, President*
 <br />
 <br />
 
