@@ -29,7 +29,7 @@ Want to talk about great poetic works? Then come to, or even take part in, one o
 <br />
 <br />
 
-*Joey Muller, LP '17, President*
+*Joey Muller, LP '19, President*
 <br />
 <br />
 
