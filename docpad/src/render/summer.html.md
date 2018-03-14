@@ -72,12 +72,12 @@ Residents are encouraged to throw or help throw social events throughout the sum
 <h3>Interested?</h3>
 <br />
 
-If you’re interested in living with us for the summer then please fill out the following application.  We will contact you and give you more information from that point on.  Move-in day for boarders is Monday, May 29th and move-out day is Tuesday, August 22nd.  If you’re looking to stay outside of those dates, or for that matter if you have any other questions or concerns then please email adphi-shm@mit.edu and we’ll get back to you soon.  Hope to hear from you!
+If you’re interested in living with us for the summer then please fill out the following application.  We will contact you and give you more information from that point on.  Move-in day for boarders is Monday, May 28th and move-out day is Friday, August 24th.  If you’re looking to stay outside of those dates, or for that matter if you have any other questions or concerns then please email adphi-shm@mit.edu and we’ll get back to you soon.  Hope to hear from you!
 
 <br />
 <br />
 
-<h2><a href="https://goo.gl/forms/Hw5OVqChm5shtpcw1">Click here to apply for summer 2017 housing!</a></h2>
+<h2><a href="https://goo.gl/forms/Hw5OVqChm5shtpcw1">Click here to apply for summer 2018 housing!</a></h2>
 
 <br />
 <br />
@@ -87,3 +87,5 @@ If you’re interested in living with us for the summer then please fill out the
 </div>
 
 </div>
+
+
