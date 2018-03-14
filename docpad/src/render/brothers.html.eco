@@ -74,21 +74,21 @@ Ray Tsou<br />
 <span class="col">
 <img src="<%= @getThumbnail('/images/tuxedos/Debadiits.jpg', 'brother') %>">
 Debaditya "Debadiits" Pramanik<br />
-<i>TBA</i><br />
+<i>Dream Dabber/i><br />
 2021
 </span>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/tuxedos/Screenshot_20171020-145111.png', 'brother') %>">
 Matt "From New Jersey" Love<br />
-<i>TBA</i><br />
+<i>The Gargoyle</i><br />
 2021
 </span>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/nomads/matt_vernacchia_2.jpg', 'brother') %>">
 Richard Wang<br />
-<i>TBA</i><br />
+<i>The Chosen Wang</i><br />
 2021
 </span>
 
