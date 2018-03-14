@@ -11,7 +11,7 @@ menuOrder: 1
 <h1>Letter from the President</h1>
 <br />
 
-<img src="/images/composite_2016_2017.jpg">
+<img src="/images/tuxedos/Composite.jpg">
 
 *Our most recent composite photo*
 <br />
@@ -29,7 +29,7 @@ Want to talk about great poetic works? Then come to, or even take part in, one o
 <br />
 <br />
 
-*John Peurifoy, LP '18, President*
+*Joey Muller, LP '19, President*
 <br />
 <br />
 
