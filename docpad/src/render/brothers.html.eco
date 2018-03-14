@@ -74,7 +74,7 @@ Ray Tsou<br />
 <span class="col">
 <img src="<%= @getThumbnail('/images/tuxedos/Debadiits.jpg', 'brother') %>">
 Debaditya "Debadiits" Pramanik<br />
-<i>Dream Dabber/i><br />
+<i>Dream Dabber</i><br />
 2021
 </span>
 
@@ -105,7 +105,7 @@ Eivind Eide<br />
 <span class="col">
 <img src="<%= @getThumbnail('/images/poseidon/kevin_wang.jpg', 'brother') %>">
 Kevin Wang<br />
-<i>TBA</i><br />
+<i>Drive it like I stole it</i><br />
 2018
 </span>
 
@@ -139,7 +139,7 @@ Anuj Apte<br />
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/poseidon/arsen_vasilyan.png', 'brother') %>">
-69 <br />
+Arsen Vasilyan<br />
 <i>69 and Below</i><br />
 2019
 </span>
@@ -168,9 +168,9 @@ Johnny Gao<br />
 <span class="col">
 <img src="<%= @getThumbnail('/images/poseidon/joseph_kuan.png', 'brother') %>">
 Joseph Kuan<br />
-<i>TBA</i><br />
+<i>Sweatervest</i><br />
 2019
-</Sweatervest>
+</span>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/poseidon/kenny_yang.png', 'brother') %>">
