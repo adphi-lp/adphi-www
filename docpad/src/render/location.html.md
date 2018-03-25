@@ -25,7 +25,7 @@ Our house is a beautiful 5 story mansion at 351 Massachusetts Avenue in Cambridg
 <br />
 <br />
 
-Brothers are easily able to walk to campus in the morning and return to the house for lunch every weekday before heading back to classes in the afternoon. Evenings consist of family-style dinner 5 nights a week, prepared by Chef John, followed by anything from psets to parties to philosophical discussions.
+Brothers are easily able to walk to campus in the morning and return to the house for lunch every weekday before heading back to classes in the afternoon. Evenings consist of dinner 5 nights a week, prepared by our very own Chef John, followed by anything from psets to parties to philosophical discussions.
 
 <img src="/images/wilg.jpg">
 
@@ -34,7 +34,7 @@ Brothers are easily able to walk to campus in the morning and return to the hous
 <br />
 <br />
 
-Unique among fraternities is our relationship with the Women's Independent Living Group, or WILG, the oldest all-female living group at MIT. We share the historic Lamson Building, with separate living quarters (ADPhi on the left, WILG on the right) and a shared patio terrace, backyard, and parking lot. Our executive boards meet monthly to divide maintanence tasks, plan joint events, and resolve any outstanding issues. Naturally, Brothers and WILGlets often like to hang out together; you'll probably meet some of them during Rush!
+Unique among fraternities is our relationship with the Women's Independent Living Group, or WILG, the oldest all-female living group at MIT. We share the historic Lamson Building, with separate living quarters (ADPhi on the left, WILG on the right) and a shared patio terrace, backyard, and parking lot. We always try our best to be good neighbors, so if you see anyone from WILG say hi!
 
 <br />
 <br />
