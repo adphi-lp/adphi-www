@@ -25,7 +25,7 @@ Our house itself is one of the most special parts of ADPhi.  Unlike most houses 
 <br />
 <br />
 
-We have 53 rooms, spread over five floors of one to three halls per floor and around four rooms per hall. Each hall has its own newly-renovated bathroom, and each floor has a large lounge which brothers use to study, socialize, and relax at all hours of the day.
+We have 38 rooms, spread over four floors of one to three halls per floor and around four rooms per hall. Each hall has its own newly-renovated bathroom, and each floor has a large lounge which brothers use to study, socialize, and relax at all hours of the day.
 
 <img src="/images/3rdlounge.jpg">
 
@@ -51,26 +51,25 @@ The Pub, also known as the Sign Room, is one of the most recently renovated room
 
 <h2>Workroom</h2>
 
-Need to make, break, or fix something? Our workroom has a wide variety of regular and power tools, a fully-functional lathe, and plenty of brothers to help you get started. Past projects include a manmade raft used to watch fireworks on the Charles and an LED dance floor.
+Need to make, break, or fix something? Our workroom has a wide variety of regular and power tools, a fully-functional mill, and plenty of brothers to help you get started. Past projects include a manmade raft used to watch fireworks on the Charles and an LED dance floor.
 
 <img src="/images/workroom.jpg">
 
 <h2>Hot Tub</h2>
 
-One of our most memorable rooms, our hot tub is a great way to relax after a long day.
+One of our most memorable rooms, our hot tub is a great way to relax after a long day. Originally put in in 1993, it was recently renovated by our 2021 pledge class, the Tuxedos. 
 
 <img src="/images/hottub.jpg">
 
 <h2>Mailroom</h2>
 
-In addition to holding all our mailboxes, our mailroom also has a big-screen TV with an Xbox One, a Wii U, and a Rock Band set provided by Eran Egozy (Co-founder of Harmonix, LP '95).
+In addition to holding all our mailboxes, pledge class Posiedon's project also has a big-screen TV with an Xbox One, a Wii U, and a Rock Band set provided by Eran Egozy (Co-founder of Harmonix, LP '95).
 <br />
 <br />
 
 <span class="col-small"> <img src="/images/mailroom1.jpg"> </span>
 <span class="col-small"> <img src="/images/mailroom2.jpg"> </span>
 
-It also holds our Gauntlet machine, an arcade system with over 8000 retro arcade games for brothers to play.
 
 <h2>TV Room</h2>
 
