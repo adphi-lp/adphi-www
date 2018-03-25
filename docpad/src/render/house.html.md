@@ -45,7 +45,7 @@ We are extremely fortunate in that our house boasts a huge variety of specialize
 
 <h2>Pub</h2>
 
-The Pub, also known as the Sign Room, is one of the most recently renovated rooms in the house, as it was the pledge project of our 2018 pledge class, <a href="/brothers/wolfpack.html">Wolfpack</a>. Besides the air hockey table and bar (pictured below), the room also boasts a vintage pinball machine and multiple couches ideal for relaxing on a weekend night.
+The Pub, also known as the Sign Room, is one of the most recently renovated rooms in the house, as it was the pledge project of our 2018 pledge class, <a href="/brothers/wolfpack.html">Wolfpack</a>. Besides the signs and bar (pictured below), the room also boasts our Foosball table and multiple couches ideal for relaxing on a weekend night.
 
 <img src="/images/pub.jpg">
 
@@ -86,7 +86,7 @@ Our library holds our collection of books, textbooks, awards, and board games. I
 
 <h2>2nd Lounge</h2>
 
-The 2nd lounge is our largest room, used for weekly House Meetings, parties, and other social events. When it's not full of brothers or guests, it's used as anything from a P90X studio to our IM foosball and ping pong teams' practice area.
+The 2nd lounge is our largest room, used for weekly House Meetings, parties, and other social events. When it's not full of brothers or guests, it's used as anything from a P90X studio to our IM ping pong teams' practice area.
 
 <img src="/images/2ndlounge.jpg">
 
