@@ -16,7 +16,7 @@ menuOrder: 2
 <br />
 <br />
 
-Our house is the southern half of a beautiful 5 story mansion locate at 351 Massachusetts Avenue in Cambridge, MA. Located just south of Central Square, we have the benefits of being surrounded by a wealth of restaurants, coffeeshops, museums, and more (including the world-famous Toscanini's right behind our house). Yet we also have the convenience of living near campus, just a 7 minute walk from 77 Mass Ave, 6 minutes from the Z center, and 10 minutes from Kendall Square. Finally, it's a short walk or bike ride into Boston if you want to experience the city for an afternoon or a day.
+Our house is the southern half of a beautiful 5 story mansion located at 351 Massachusetts Avenue in Cambridge, MA. Located just south of Central Square, we have the benefits of being surrounded by a wealth of restaurants, coffeeshops, museums, and more (including the world-famous Toscanini's right behind our house). Yet we also have the convenience of living near campus, just a 7 minute walk from 77 Mass Ave, 6 minutes from the Z center, and 10 minutes from Kendall Square. Finally, it's a short walk or bike ride into Boston if you want to experience the city for an afternoon or a day.
 
 <img src="/images/street1.jpg">
 
