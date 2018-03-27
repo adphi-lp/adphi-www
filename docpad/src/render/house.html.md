@@ -92,7 +92,7 @@ The 2nd lounge is our largest room, used for weekly House Meetings, parties, and
 
 <h2>Patio</h2>
 
-Finally, our patio, which we share with WILG, is a great way to enjoy the sun in months when Cambridge isn't seeing record levels of snowfall. It was also the site of our memorable 2014 "Beach" party.
+Finally, our patio, which we share with the adjacent Women's Independent Living Group (WILG), is a great way to enjoy the sun in months when Cambridge isn't seeing record levels of snowfall. It was also the site of our memorable 2014 "Beach" party.
 
 <img src="/images/patio1.jpg">
 
