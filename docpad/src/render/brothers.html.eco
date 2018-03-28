@@ -80,7 +80,7 @@ Debaditya "Debadiits" Pramanik<br />
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/tuxedos/Screenshot_20171020-145111.png', 'brother') %>">
-Matt "From New Jersey" Love<br />
+Matthew Love<br />
 <i>The Gargoyle</i><br />
 2021
 </span>
