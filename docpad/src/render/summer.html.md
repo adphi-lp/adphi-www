@@ -77,13 +77,15 @@ If you’re interested in living with us for the summer then please fill out the
 <br />
 <br />
 
-<h2><a href="https://goo.gl/forms/Hw5OVqChm5shtpcw1">Click here to apply for summer 2017 housing!</a></h2>
+<h2><a href="https://goo.gl/forms/Hw5OVqChm5shtpcw1">Click here to apply for summer 2018 housing!</a></h2>
 
 <br />
 <br />
 
 <div align="left" class="prev">
   <a href="/rush.html">Previous: Rush</a>
+<div align="right" class="next">
+  <a href="/rush.html">Next: Alumni</a>
 </div>
 
 </div>
