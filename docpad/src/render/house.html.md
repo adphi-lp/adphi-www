@@ -100,7 +100,7 @@ Finally, our patio, which we share with the adjacent Women's Independent Living 
 <br />
 
 <div align="left" class="prev">
-  <a href="/location.html">Previous: Location</a>
+  <a href="/Alumni.html">Previous: Location</a>
 </div>
 
 <div align="right" class="next">

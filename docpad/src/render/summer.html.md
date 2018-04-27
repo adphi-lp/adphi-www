@@ -84,8 +84,7 @@ If you’re interested in living with us for the summer then please fill out the
 
 <div align="left" class="prev">
   <a href="/rush.html">Previous: Rush</a>
-<div align="right" class="next">
-  <a href="/rush.html">Next: Alumni</a>
+
 </div>
 
 </div>
