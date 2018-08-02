@@ -16,21 +16,21 @@ menuOrder: 4
 <h2>Tuxedos</h2>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/tuxedos/Jon_Ching.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/tuxedos/Jon_Ching.jpg', 'brother') %>" >
 King Him "Jon" Ching <br />
 <i>Elvis</i><br />
 2018
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/tuxedos/Best Pledge.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/tuxedos/Best Pledge.jpg', 'brother') %>" >
 Jeet Mohapatra<br />
 <i>Home Alone</i><br />
 2019
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/tuxedos/dave.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/tuxedos/dave.jpg', 'brother') %>" >
 Po-Han "Dave" Lin<br />
 <i>Home Alone 2</i><br />
 2020
@@ -372,4 +372,3 @@ Will Wong<br />
 </div>
 
 </div>
-

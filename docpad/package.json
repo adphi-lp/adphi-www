@@ -14,7 +14,8 @@
     "docpad-plugin-partials": "~2.11.0",
     "docpad-plugin-scheduling": "~2.0.0",
     "docpad-plugin-stylus": "~2.13.0",
-    "docpad-plugin-tinylivereload": "~2.0.4"
+    "docpad-plugin-tinylivereload": "~2.0.4",
+    "sharp": "^0.20.5"
   },
   "main": "node_modules/.bin/docpad-server",
   "scripts": {
