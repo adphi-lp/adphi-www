@@ -45,7 +45,7 @@ We are extremely fortunate in that our house boasts a huge variety of specialize
 
 <h2>Pub</h2>
 
-The Pub, also known as the Sign Room, is one of the most recently renovated rooms in the house, as it was the pledge project of our 2018 pledge class, <a href="/brothers/wolfpack.html">Wolfpack</a>. Besides the signs and bar (pictured below), the room also boasts our Foosball table and multiple couches ideal for relaxing on a weekend night.
+The Pub, also known as the Sign Room, is one of the most recently renovated rooms in the house, as it was the pledge project of our 2018 pledge class, Wolfpack. Besides the signs and bar (pictured below), the room also boasts our Foosball table and multiple couches ideal for relaxing on a weekend night.
 
 <img src="/images/pub.jpg">
 
@@ -73,7 +73,7 @@ In addition to holding all our mailboxes, pledge class Posiedon's project also h
 
 <h2>TV Room</h2>
 
-Another recently-renovated room, the TV room was the pledge project for our 2017 pledge class, <a href="/brothers.html#muses">Muses</a>. It boasts theater lighting, three tiers of seating on comfortable couches, and a projection TV for watching movies or playing Smash.
+Another recently-renovated room, the TV room was the pledge project for our 2017 pledge class, Muses. It boasts theater lighting, three tiers of seating on comfortable couches, and a projection TV for watching movies or playing Smash.
 
 <img src="/images/tvroom.jpg">
 
