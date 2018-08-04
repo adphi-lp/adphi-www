@@ -1,15 +1,15 @@
 ---
 title: "Rush!"
 layout: "default"
-menuOrder: 5
+menuOrder: 6
 
 ---
 <div class="content container">
 
-<h1>Rush!</h1>
+<h1>MIT ADPhi Rush 2018</h1>
 <br />
 
-Welcome to our schedule for Rush 2018! All events are at 351 Massachusetts Avenue in Cambridge unless otherwise noted. Call us at (781) 330-8118 for a ride!
+Welcome to our schedule for Rush 2018! All events are at 351 Massachusetts Avenue in Cambridge unless otherwise noted. Call us at (617)803-5231 for a ride!
 
 
 <br />

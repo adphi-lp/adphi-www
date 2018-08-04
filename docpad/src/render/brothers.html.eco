@@ -1,7 +1,7 @@
 ---
 title: "Brothers"
 layout: "default"
-menuOrder: 4
+menuOrder: 5
 
 ---
 
@@ -364,7 +364,7 @@ Will Wong<br />
 <br />
 
 <div align="left" class="prev">
-  <a href="/house.html">Previous: House</a>
+  <a href="/alumni.html">Previous: Alumni</a>
 </div>
 
 <div align="right" class="next">

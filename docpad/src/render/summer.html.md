@@ -1,7 +1,7 @@
 ---
 title: "Summer"
 layout: "default"
-menuOrder: 6
+menuOrder: 7
 
 ---
 <div class="content container">
@@ -88,5 +88,3 @@ If you’re interested in living with us for the summer then please fill out the
 </div>
 
 </div>
-
-

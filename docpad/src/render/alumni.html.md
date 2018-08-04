@@ -1,7 +1,7 @@
 ---
 title: "Alumni"
 layout: "default"
-menuOrder: 3
+menuOrder: 4
 
 ---
 
@@ -39,8 +39,8 @@ Alpha Delta Phi International: Don't forget that we are but a chapter of one of 
   <br />
 <br />
 <div align="left" class="prev">
-  <a href="/Location.html">Previous: Location</a>
+  <a href="/house.html">Previous: House</a>
 </div>
 <div align="right" class="next">
-  <a href="/House.html">Previous: House</a>
+  <a href="/brothers.html">Next: Brothers</a>
 </div>

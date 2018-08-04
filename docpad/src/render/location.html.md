@@ -35,7 +35,7 @@ Brothers are easily able to walk to campus in the morning and return to the hous
 </div>
 
 <div align="right" class="next">
-  <a href="/house.html">Next: Alumni</a>
+  <a href="/house.html">Next: House</a>
 </div>
 
 </div>

@@ -34,7 +34,7 @@ We have 38 rooms, spread over four floors of one to three halls per floor and ar
 <br />
 <br />
 
-We are extremely fortunate in that our house boasts a huge variety of specialized rooms and amenities. One of our house traditions is for the newest pledge class to do a "Pledge Project" in which they are given free reign and a budget to create a permanent improvement to the house. Most of the rooms below are the result of one or more pledge projects. 
+We are extremely fortunate in that our house boasts a huge variety of specialized rooms and amenities. One of our house traditions is for the newest pledge class to do a "Pledge Project" in which they are given free reign and a budget to create a permanent improvement to the house. Most of the rooms below are the result of one or more pledge projects.
 
 <img src="/images/5thlounge.jpg">
 
@@ -57,7 +57,7 @@ Need to make, break, or fix something? Our workroom has a wide variety of regula
 
 <h2>Hot Tub</h2>
 
-One of our most memorable rooms, our hot tub is a great way to relax after a long day. Originally put in in 1993, it was recently renovated by our 2021 pledge class, the Tuxedos. 
+One of our most memorable rooms, our hot tub is a great way to relax after a long day. Originally put in in 1993, it was recently renovated by our 2021 pledge class, the Tuxedos.
 
 <img src="/images/hottub.jpg">
 
@@ -100,11 +100,11 @@ Finally, our patio, which we share with the adjacent Women's Independent Living 
 <br />
 
 <div align="left" class="prev">
-  <a href="/Alumni.html">Previous: Location</a>
+  <a href="/location.html">Previous: Location</a>
 </div>
 
 <div align="right" class="next">
-  <a href="/brothers.html">Next: Brothers</a>
+  <a href="/alumni.html">Next: Alumni</a>
 </div>
 
 </div>
