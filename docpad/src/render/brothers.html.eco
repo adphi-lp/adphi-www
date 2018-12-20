@@ -10,20 +10,20 @@ menuOrder: 4
 <h1>Brothers</h1>
 <br />
 
-<i>*Editor's Note: Richard Wang did not submit a photo, so his photo has been replaced with one of a shirtless Matt Vernacchia.</i>
+<i>*Editor's Note: Dick Wang did not submit a photo, so his photo has been replaced with one of a shirtless Matt Vernacchia.</i>
 
 <br /><br />
 <h2>Orphus</h2>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/talha.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/orpheus/Talha.jpg', 'brother') %>">
 Talha Faiz<br />
 <i>The Mocha Unicorn</i><br />
 2020
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/josh.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/orpheus/Joshua.jpg', 'brother') %>">
 King To "Joshua" Ching<br />
 <i>Joshuology</i><br />
 2021
@@ -31,42 +31,42 @@ King To "Joshua" Ching<br />
 
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/peiling.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/orpheus/Peiling.jpg', 'brother') %>">
 Peiling Jiang<br />
 <i>Passport</i><br />
 2021
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/diogo.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/orpheus/Diogo.jpg', 'brother') %>">
 Diogo Netto<br />
 <i>Onion Rings</i><br />
 2022
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/ian.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/orpheus/Ian.jpg', 'brother') %>">
 Ian Limarta<br />
 <i>The Offender</i><br />
 2022
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/richard.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/orpheus/Richard.jpg', 'brother') %>">
 Richard Liu<br />
 <i>Jumped</i><br />
 2022
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/tim.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/orpheus/Tim.jpg', 'brother') %>">
 Tim Gutterman<br />
 <i>Billy Bounce Baby</i><br />
 2022
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/tom.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/orpheus/Tom.jpg', 'brother') %>">
 Tommy Heng<br />
 <i>Strange Harry</i><br />
 2022
@@ -140,7 +140,7 @@ Matthew Love<br />
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/nomads/matt_vernacchia_2.jpg', 'brother') %>">
-Richard Wang<br />
+Dick Wang<br />
 <i>The Chosen Wang</i><br />
 2021
 </span>
