@@ -10,21 +10,74 @@ menuOrder: 4
 <h1>Brothers</h1>
 <br />
 
-<i>*Editor's Note: Van Phu and Richard Wang did not submit photos, so their photos have been replaced with ones of a shirtless Matt Vernacchia.</i>
+<i>*Editor's Note: Richard Wang did not submit a photo, so his photos has been replaced with one of a shirtless Matt Vernacchia.</i>
+
+<br /><br />
+<h2>Orphus</h2>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/orpheus/talha.jpg', 'brother') %>">
+Talha Faiz<br />
+<i>The Mocha Unicorn</i><br />
+2020
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/orpheus/josh.jpg', 'brother') %>">
+King To "Joshua" Ching<br />
+<i>Joshuology</i><br />
+2021
+</span>
+
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/orpheus/peiling.jpg', 'brother') %>">
+Peiling Jiang<br />
+<i>Passport</i><br />
+2021
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/orpheus/diogo.jpg', 'brother') %>">
+Diogo Netto<br />
+<i>Onion Rings</i><br />
+2022
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/orpheus/ian.jpg', 'brother') %>">
+Ian Limarta<br />
+<i>The Offender</i><br />
+2022
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/orpheus/richard.jpg', 'brother') %>">
+Richard Liu<br />
+<i>Jumped</i><br />
+2022
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/orpheus/tim.jpg', 'brother') %>">
+Tim Gutterman<br />
+<i>Billy Bounce Baby</i><br />
+2022
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/orpheus/tom.jpg', 'brother') %>">
+Tommy Heng<br />
+<i>Strange Harry</i><br />
+2022
+</span>
 
 <br /><br />
 <h2>Tuxedos</h2>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/tuxedos/Jon_Ching.jpg', 'brother') %>">
-King Him "Jon" Ching <br />
-<i>Elvis</i><br />
-2018
-</span>
-
-<span class="col">
 <img src="<%= @getThumbnail('/images/tuxedos/Best Pledge.jpg', 'brother') %>">
-Jeet Mohapatra<br />
+Jeet "Dark Tempation" Mohapatra<br />
 <i>Home Alone</i><br />
 2019
 </span>
@@ -52,7 +105,7 @@ Elton Lin<br />
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/tuxedos/Sergio_Cuadra.jpg', 'brother') %>">
-Sergio Cuadra<br />
+Sergio Cudro<br />
 <i>Scotch Only</i><br />
 2021
 </span>
@@ -94,27 +147,6 @@ Richard Wang<br />
 
 
 <h2>Poseidon</h2>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/poseidon/eivind_eide.jpg', 'brother') %>">
-Eivind Eide<br />
-<i>Skim Milk</i><br />
-2018
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/poseidon/kevin_wang.jpg', 'brother') %>">
-Kevin Wang<br />
-<i>Drive it like I stole it</i><br />
-2018
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/poseidon/aditya_gopalan.jpg', 'brother') %>">
-Aditya "Diits" Gopalan<br />
-<i>Cowgirl</i><br />
-2018
-</span>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/poseidon/alex_patton.jpg', 'brother') %>">
@@ -195,7 +227,7 @@ Thulith Edirisinghe<br />
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/poseidon/yotaro_sueoka.png', 'brother') %>">
-Yotaro "Cripple" Sueoka<br />
+Yotaro Sueoka<br />
 <i>Pet Frog</i><br />
 2020
 </span>
@@ -203,31 +235,10 @@ Yotaro "Cripple" Sueoka<br />
 <h2>Nomads</h2>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/nomads/chien_hsun_chang.jpg', 'brother') %>">
-Chien-Hsun "Vincent" Chang<br />
-<i>50 Cent</i><br />
-2018
-</span>
-
-<span class="col">
 <img src="<%= @getThumbnail('/images/nomads/chris_hillenbrand.jpg', 'brother') %>">
 Chris Hillenbrand<br />
 <i>911</i><br />
 2019
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/nomads/henry_wu.jpg', 'brother') %>">
-Henry Wu<br />
-<i>The Delta Function</i><br />
-2018
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/nomads/mark_wang.jpg', 'brother') %>">
-Mark Wang<br />
-<i>The Wanger</i><br />
-2018
 </span>
 
 <span class="col">
@@ -252,91 +263,19 @@ Tugsuu Manlaibaatar<br />
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/nomads/matt_vernacchia_2.jpg', 'brother') %>">
-Van Phu*<br />
-<i>The Vandal</i><br />
-2018
-</span>
-
-<span class="col">
 <img src="<%= @getThumbnail('/images/nomads/wei_wu.jpg', 'brother') %>">
 Wei Wu<br />
 <i>The Frisk Manager</i><br />
 2019
 </span>
 
-<h2>Wolfpack</h2>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/wolfpack/akshat_bubna.jpg', 'brother') %>">
-Akshat Bubna<br />
-<i>Stacked</i><br />
-2018
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/wolfpack/bojan_serafimov.jpg', 'brother') %>">
-Bojan Serafimov<br />
-<i>Bean Salad</i><br />
-2018
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/wolfpack/dexin_chen.jpg', 'brother') %>">
-De Xin Chen<br />
-<i>Insanity</i><br />
-2018
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/wolfpack/jiahao_li.jpg', 'brother') %>">
-Jiahao Li<br />
-<i>Barney</i><br />
-2018
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/wolfpack/john_peurifoy.jpg', 'brother') %>">
-John Peurifoy<br />
-<i>Awesomesauce</i><br />
-2018
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/wolfpack/mike_wang.jpg', 'brother') %>">
-Mike "Champ" Wang<br />
-<i>Golden</i><br />
-2018
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/wolfpack/paolo_gentili.jpg', 'brother') %>">
-Paolo Gentili<br />
-<i>Mopper</i><br />
-2018
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/wolfpack/sourav_das.jpg', 'brother') %>">
-Sourav Das<br />
-<i>Silver Finger</i><br />
-2018
-</span>
+<h2>Old Fucks</h2>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/wolfpack/victor_oliveira.jpg', 'brother') %>">
 Victor Oliveira<br />
 <i>Puddle</i><br />
 2018
-</span>
-
-<h2>Old Fucks</h2>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/muses/omar_ibarra.jpg', 'brother') %>">
-Omar Ibarra<br />
-<i>The Void</i><br />
-2017
 </span>
 
 <span class="col">
@@ -346,19 +285,6 @@ Rishad Rahman<br />
 2017
 </span>
 
-<span class="col">
-<img src="<%= @getThumbnail('/images/muses/sam_matthews.jpg', 'brother') %>">
-Sam Matthews<br />
-<i>Little Michael</i><br />
-2017
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/muses/will_wong.jpg', 'brother') %>">
-Will Wong<br />
-<i>Snorlax</i><br />
-2017
-</span>
 
 <br />
 <br />
