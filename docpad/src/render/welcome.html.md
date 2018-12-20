@@ -29,7 +29,7 @@ Want to talk about great poetic works? Then come to, or even take part in, one o
 <br />
 <br />
 
-*Sergio Esteban Cuadra LP '21, President*
+*Sergio Cuadra LP '21, President*
 <br />
 <br />
 
