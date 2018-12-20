@@ -10,8 +10,8 @@ menuOrder: 1
 
 <h1>Letter from the President</h1>
 <br />
-
-<img src="/images/Composite 2018.jpg">
+ 
+<img src="/images/Composite2018.jpg">
 
 *Our most recent composite photo*
 <br />
