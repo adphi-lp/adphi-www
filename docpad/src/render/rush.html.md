@@ -9,7 +9,7 @@ menuOrder: 5
 <h1>Rush!</h1>
 <br />
 
-Our 2017 Rush is over, and 2018 is yet to begin! Check back in late August to see all of our wonderful events!
+Our 2018 Rush is over, and 2019 is yet to begin! Check back in late August to see all of our wonderful events!
 
 
 <br />
