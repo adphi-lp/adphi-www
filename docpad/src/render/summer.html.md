@@ -77,7 +77,7 @@ If you’re interested in living with us for the summer then please fill out the
 <br />
 <br />
 
-<h2><a href="https://goo.gl/forms/Hw5OVqChm5shtpcw1">Click here to apply for summer 2018 housing!</a></h2>
+<h2><a href="None">Click here to apply for summer 2019 housing!</a></h2>
 
 <br />
 <br />
