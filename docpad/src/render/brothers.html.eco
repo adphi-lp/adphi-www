@@ -132,7 +132,7 @@ Debaditya "Debadiits" Pramanik<br />
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/tuxedos/Screenshot_20171020-145111.png', 'brother') %>">
+<img src="<%= @getThumbnail('/images/tuxedos/Matt.jpg', 'brother') %>">
 Matthew Love<br />
 <i>The Gargoyle</i><br />
 2021
