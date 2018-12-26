@@ -10,8 +10,8 @@ menuOrder: 1
 
 <h1>Letter from the President</h1>
 <br />
-
-<img src="/images/tuxedos/Composite.jpg">
+ 
+<img src="/images/Composite2018.jpg">
 
 *Our most recent composite photo*
 <br />
@@ -29,7 +29,7 @@ Want to talk about great poetic works? Then come to, or even take part in, one o
 <br />
 <br />
 
-*Joey Muller, LP '19, President*
+*Sergio Cuadra LP '21, President*
 <br />
 <br />
 

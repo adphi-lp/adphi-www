@@ -9,7 +9,7 @@ menuOrder: 6
 <h1>MIT ADPhi Rush 2018</h1>
 <br />
 
-Welcome to our schedule for Rush 2018! All events are at 351 Massachusetts Avenue in Cambridge unless otherwise noted. Call us at (617)803-5231 for a ride!
+Our 2018 Rush is over, and 2019 is yet to begin! Check back in late August to see all of our wonderful events!
 
 
 <br />
