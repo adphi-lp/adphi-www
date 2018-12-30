@@ -16,7 +16,7 @@ menuOrder: 4
 <h2>Orphus</h2>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/Talha.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/orpheus/Talha.png', 'brother') %>">
 Talha Faiz<br />
 <i>The Mocha Unicorn</i><br />
 2020
@@ -31,7 +31,7 @@ King To "Joshua" Ching<br />
 
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/Peiling.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/orpheus/Peiling.jpeg', 'brother') %>">
 Peiling Jiang<br />
 <i>Passport</i><br />
 2021
@@ -52,7 +52,7 @@ Ian Limarta<br />
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/Richard.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/orpheus/Richard.jpeg', 'brother') %>">
 Richard Liu<br />
 <i>Jumped</i><br />
 2022
