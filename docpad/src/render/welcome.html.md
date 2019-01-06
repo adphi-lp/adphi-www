@@ -38,6 +38,5 @@ Please take a look through the site to learn more about <a href="/location.html"
   <a href="/location.html">Next: Location</a>
 </div>
 
- <img style="width: 50%; height: auto; display: block; margin: 0 auto;" src="/images/brand.png" />
 
 </div>
