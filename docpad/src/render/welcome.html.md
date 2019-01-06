@@ -8,6 +8,7 @@ menuOrder: 1
 
 <div class="content container">
 
+
 <h1>Letter from the President</h1>
 <br />
  
@@ -36,5 +37,7 @@ Please take a look through the site to learn more about <a href="/location.html"
 <div align="left" class="next">
   <a href="/location.html">Next: Location</a>
 </div>
+
+ <img style="width: 50%; height: auto; display: block; margin: 0 auto;" src="/images/brand.png" />
 
 </div>
