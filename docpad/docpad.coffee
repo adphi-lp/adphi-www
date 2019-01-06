@@ -16,6 +16,13 @@ docpadConfig = {
       title: "MIT ADPhi"
     getPreparedTitle: -> if @document.title then "#{@document.title} | #{@site.title}" else @site.title
   plugins:
+    markit:
+        html: true
+        linkify: true
+        typographer: true
+        langPrefix: 'language-en'
+        plugins: ['markdown-it-footnote']
+        markdown_it_footnote: {footnote_block_open: 'Footnotes:'}
     imagin:
       presets:
         'brother':

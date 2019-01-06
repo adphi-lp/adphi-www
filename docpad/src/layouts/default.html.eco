@@ -17,13 +17,16 @@
       <div class="sidebar-sticky">
         <div class="sidebar-header">
           <a href="/index.html">
-            <img src="/images/crest.png" />
+            <img style="width: 250px; height: auto; display: block; margin: 0 auto;" src="/images/crest.png" />
           </a>
         </div>
         <%- @partial('menu.html.eco', {menuItems: @generateMenu(@document.url, "html")}) %>
+        <img style="width: 100px; height: auto; display: block; margin: 0 auto;" src="/images/lp.png" />
       </div>
     </div>
+    <div>
     <%- @content %>
     <%- @getBlock("scripts").add(["/vendor/jquery.js","/scripts/script.js"]).toHTML() %>
+  </div>
   </body>
 </html>

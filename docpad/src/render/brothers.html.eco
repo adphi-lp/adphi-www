@@ -13,10 +13,10 @@ menuOrder: 4
 <i>*Editor's Note: Dick Wang did not submit a photo, so his photo has been replaced with one of a shirtless Matt Vernacchia.</i>
 
 <br /><br />
-<h2>Orphus</h2>
+<h2>Orpheus</h2>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/Talha.png', 'brother') %>">
+<img src="<%= @getThumbnail('/images/orpheus/talha.jpg', 'brother') %>">
 Talha Faiz<br />
 <i>The Mocha Unicorn</i><br />
 2020
@@ -38,7 +38,7 @@ Peiling Jiang<br />
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/Diogo.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/orpheus/diogo.jpg', 'brother') %>">
 Diogo Netto<br />
 <i>Onion Rings</i><br />
 2022
@@ -59,7 +59,7 @@ Richard Liu<br />
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/Tim.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/orpheus/timg.jpg', 'brother') %>">
 Tim Gutterman<br />
 <i>Billy Bounce Baby</i><br />
 2022
@@ -83,7 +83,7 @@ Jeet "Dark Tempation" Mohapatra<br />
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/tuxedos/dave.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/tuxedos/Dave.jpg', 'brother') %>">
 Po-Han "Dave" Lin<br />
 <i>Home Alone 2</i><br />
 2020
@@ -132,7 +132,7 @@ Debaditya "Debadiits" Pramanik<br />
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/tuxedos/Matt.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/tuxedos/matt.jpeg', 'brother') %>">
 Matthew Love<br />
 <i>The Gargoyle</i><br />
 2021
@@ -270,6 +270,35 @@ Wei Wu<br />
 </span>
 
 <h2>Old Fucks</h2>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/muses/omar_ibarra.jpg', 'brother') %>">
+Omar Ibarra<br />
+<i>The Void</i><br />
+2017
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/wolfpack/sourav_das.jpg', 'brother') %>">
+Sourav Das<br />
+<i>Silver Finger</i><br />
+2018
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/muses/sam_matthews.jpg', 'brother') %>">
+Sam Matthews<br />
+<i>Little Michael</i><br />
+2017
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/muses/will_wong.jpg', 'brother') %>">
+Will Wong<br />
+<i>Snorlax</i><br />
+2017
+</span>
+
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/wolfpack/victor_oliveira.jpg', 'brother') %>">
