@@ -1,9 +1,22 @@
+ @import url('https://fonts.googleapis.com/css?family=B612|B612+Mono');
+
+figure {
+  text-align: center;
+  img {
+    display: block;
+    margin: 0 auto;
+    }
+}
 body
-  font-family: "Raleway", sans-serif
+  font-family: "B612", sans-serif
   font-size: 20px;
   line-height: 1.5;
 
+code
+  font-family: "B612 Mono";
+
 a
+  color: #228B22;
   text-decoration: none;
   hover
     text-decoration: underline;
@@ -13,6 +26,7 @@ img
   margin: 0 0 1rem;
   border-radius: 5px;
   max-width: 100%;
+
 
 .sidebar-nav-item
   font-family: "Raleway", sans-serif;
@@ -27,12 +41,13 @@ img
     font-weight: 300;
   h3
     font-weight: 400;
+
   @media (min-width: 768px)
     bottom: 0;
     left: 0;
     position: fixed;
     top: 0;
-    width: 10rem;
+    width: 14rem;
 
 .sidebar-sticky
   @media (min-width: 768px)
@@ -42,10 +57,12 @@ img
     left:   1rem;
 
 .col
-  display: inline-block
+  display: inline-block;
   padding-right: 10px;
   margin-bottom: 5px;
-  text-align: center
+  text-align: center;
+  max-width: 300px;
+  width: 15rem;
 
 .col-small
   display: inline-block
@@ -66,39 +83,96 @@ img
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
-    margin-left: 12rem;
-    margin-right: 2rem;
+    /* margin-left: 12rem;
+    margin-right: 2rem; */
+    margin: auto;
+    padding-left: 14rem;
+    padding-right: 2rem;
   }
+    section.footnotes {
+    max-width: 38rem;
+    /* margin-left: 12rem;
+    margin-right: 2rem; */
+    margin: auto;
+    padding-left: 14rem;
+    padding-right: 2rem;
+  }
+
+
 }
 
 @media (min-width: 64em) {
   .content {
-    max-width: 44rem;
-    margin-left: 12rem;
-    margin-right: 2rem;
+    max-width: 50rem;
+    /* margin-left: 12rem;
+    margin-right: 2rem; */
+    margin: auto;
+    padding-left: 14rem;
+    padding-right: 2rem;
   }
+    section.footnotes {
+    max-width: 50rem;
+    /* margin-left: 12rem;
+    margin-right: 2rem; */
+    margin: auto;
+    padding-left: 14rem;
+    padding-right: 2rem;
+  }
+
 }
 
 @media (min-width: 48em) {
   .content-big {
     max-width: 38rem;
-    margin-left: 12rem;
-    margin-right: 2rem;
+    /* margin-left: 12rem;
+    margin-right: 2rem; */
+    margin: auto;
+    padding-left: 16rem;
+    padding-right: 2rem;
   }
 }
 
 @media (min-width: 64em) {
   .content-big {
     max-width: 66rem;
-    margin-left: 12rem;
-    margin-right: 0rem;
+    /* margin-left: 12rem;
+    margin-right: 2rem; */
+    margin: auto;
+    padding-left: 16rem;
+    padding-right: 2rem;
+  }
+}
+h1 h2 h3 h4 h5 h6 {
+  text-align: left!important;
+  }
+.content {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  text-align: justify;
+  }
+
+  section.footnotes {
+  padding-bottom: 2rem;
+  text-align: justify;
+  }
+
+    .footnotes-sep {
+width: 0;
+height: 0;
+border-color: white;
+  }
+
+
+
+.content-big {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  @media (min-width: 768px) {
+  padding-left: 16rem;
+  }
+  p {text-align: justify;}
+  h3 {
+    text-align: left;
   }
 }
 
-.content
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-
-.content-big
-  padding-top: 2rem;
-  padding-bottom: 2rem;

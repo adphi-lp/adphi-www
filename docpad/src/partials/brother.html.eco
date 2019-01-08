@@ -1,7 +1,8 @@
 <% renderBrother = (brother_name, image_name, pledge_name, pledge_class, year) => %>
-  <span class="col">
+  <figure>
     <% img_name = "/images/" + pledge_class + "/" + image_name %>
     <img src="<%= @getThumbnail(img_name, 'brother') %>">
+  </figure>
 
       <li class="active">
         <h3><a class="sidebar-nav-item" href="<%= item.url %>"><%= item.title %></a></h3>

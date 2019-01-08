@@ -7,8 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" charset="utf-8">
 
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,800' rel='stylesheet' type='text/css'>
+    <link rel="icon" type="image/png" href="/images/favicon.png">
+        <link rel="shortcut-icon" type="image/png" href="/images/favicon.png">
 
-    <link rel="shortcut icon" href="/favicon.png">
+
+    <!--link rel="shortcut icon" href="/favicon.png"-->
 
     <%- @getBlock("styles").add(["/styles/style.css"]).toHTML() %>
   </head>
@@ -17,13 +20,16 @@
       <div class="sidebar-sticky">
         <div class="sidebar-header">
           <a href="/index.html">
-            <img src="/images/crest.png" />
+            <img style="width: 250px; height: auto; display: block; margin: 0 auto;" src="/images/crest.png" />
           </a>
         </div>
         <%- @partial('menu.html.eco', {menuItems: @generateMenu(@document.url, "html")}) %>
+        <a href="/this_site.html"><img style="width: 100px; height: auto; display: block; margin: 0 auto;" src="/images/lp.png" /></a>
       </div>
     </div>
+    <div>
     <%- @content %>
     <%- @getBlock("scripts").add(["/vendor/jquery.js","/scripts/script.js"]).toHTML() %>
+  </div>
   </body>
 </html>
