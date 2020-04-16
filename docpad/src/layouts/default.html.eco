@@ -16,7 +16,7 @@
     <%- @getBlock("styles").add(["/styles/style.css"]).toHTML() %>
   </head>
   <body>
-    <div class="sidebar">
+    <div class="sidebar" style="overflow-y:auto;">
       <div class="sidebar-sticky">
         <div class="sidebar-header">
           <a href="/index.html">
