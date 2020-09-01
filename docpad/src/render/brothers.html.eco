@@ -13,6 +13,81 @@ menuOrder: 4
 <i>*Editor's Note: Dick Wang did not submit a photo, so his photo has been replaced with one of a shirtless Matt Vernacchia.</i>
 
 <br /><br />
+<h2>Mercury</h2>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/mercury/william.jpg', 'brother') %>">
+William Hegelmeyer<br />
+<i>George</i><br />
+2023
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/mercury/uzuki.jpg', 'brother') %>">
+Uzuki Horo<br />
+<i>Knockout</i><br />
+2023
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/mercury/shenal.jpg', 'brother') %>">
+Shenal Kotuwewatta<br />
+<i>Smiley</i><br />
+2023
+</span>
+
+<span class="col">	
+<img src="<%= @getThumbnail('/images/mercury/quentin.jpg', 'brother') %>">
+Quentin Thernize<br />
+<i>Big Duck</i><br />
+2023
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/mercury/pawan.jpg', 'brother') %>">
+Pawan Goyal<br />
+<i>Diesel</i><br />
+2023
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/mercury/kinan.jpg', 'brother') %>">
+Kinan Martin<br />
+<i>Robin Hood</i><br />
+2023
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/mercury/johan.jpg', 'brother') %>">
+Johan Soto<br />
+<i>Scranton</i><br />
+2023
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/mercury/daniel.jpg', 'brother') %>">
+Daniel Wisdom<br />
+<i>Algo-Rythm</i><br />
+2023
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/mercury/daishi.jpg', 'brother') %>">
+Daishi Kiyohara<br />
+<i>Horseman</i><br />
+2023
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/mercury/amani.jpg', 'brother') %>">
+Amani Toussaint<br />
+<i>The Critic</i><br />
+2023
+</span>
+
+
+
+<br /><br />
 <h2>Orpheus</h2>
 
 <span class="col">

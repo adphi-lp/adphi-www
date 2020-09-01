@@ -2,7 +2,7 @@
   <ul class="sidebar-nav">
     <% for item in items: %>
       <li class="active">
-        <h3><a class="sidebar-nav-item" href="<%= item.url %>"><%= item.title %></a></h3>
+        <h3><a class="sidebar-nav-item" href="<%= item.url %>.html"><%= item.title %></a></h3>
       </li>
     <% end %>
   </ul>
