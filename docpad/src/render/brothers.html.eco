@@ -10,9 +10,9 @@ menuOrder: 4
 <h1>Brothers</h1>
 <br />
 
-<i>*Editor's Note: Dick Wang did not submit a photo, so his photo has been replaced with one of a shirtless Matt Vernacchia.</i>
+<!-- <i>*Editor's Note: Dick Wang did not submit a photo, so his photo has been replaced with one of a shirtless Matt Vernacchia.</i> -->
 
-<br /><br />
+<!-- <br /><br /> -->
 <h2>Mercury</h2>
 
 <span class="col">
@@ -207,7 +207,7 @@ Matthew Love<br />
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/nomads/matt_vernacchia_2.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/tuxedos/rwang.jpeg', 'brother') %>">
 Dick Wang<br />
 <i>The Chosen Wang</i><br />
 2021
@@ -335,51 +335,6 @@ Tugsuu Manlaibaatar<br />
 Wei Wu<br />
 <i>The Frisk Manager</i><br />
 2019
-</span>
-
-<h2>Old Fucks</h2>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/muses/omar_ibarra.jpg', 'brother') %>">
-Omar Ibarra<br />
-<i>The Void</i><br />
-2017
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/wolfpack/sourav_das.jpg', 'brother') %>">
-Sourav Das<br />
-<i>Silver Finger</i><br />
-2018
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/muses/sam_matthews.jpg', 'brother') %>">
-Sam Matthews<br />
-<i>Little Michael</i><br />
-2017
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/muses/will_wong.jpg', 'brother') %>">
-Will Wong<br />
-<i>Snorlax</i><br />
-2017
-</span>
-
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/wolfpack/victor_oliveira.jpg', 'brother') %>">
-Victor Oliveira<br />
-<i>Puddle</i><br />
-2018
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/muses/rishad_rahman.jpg', 'brother') %>">
-Rishad Rahman<br />
-<i>The Other One</i><br />
-2017
 </span>
 
 
