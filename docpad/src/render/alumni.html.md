@@ -22,7 +22,7 @@ menuOrder: 3
 
 <p>Keeping this in mind, we have the following resources: </p>
 
-<p>Undergrad Alumni Relations Chair: The Undergrad Alumni Relations Chair, currently Matthew Love LP '21, serves as your most direct link to the chapter. Any questions you have regarding your role as alums, current affairs at the house, availabilty of a guest room for a day or two, or any other issue regarding us can be directed to <code>adp-alumni-chair@mit.edu</code>, and we will do our best to give a timely response. </p>
+<p>Undergrad Alumni Relations Chair: The Undergrad Alumni Relations Chair, currently Sergio Cuadra LP '21, serves as your most direct link to the chapter. Any questions you have regarding your role as alums, current affairs at the house, availabilty of a guest room for a day or two, or any other issue regarding us can be directed to <a href="mailto:adphi-alumni-chair@mit.edu"><code>adphi-alumni-chair@mit.edu</code></a>, and we will do our best to give a timely response. </p>
 
 <p>
 <b>Alumni Mailing List</b>: All alumni should be on one of our mailing lists, as they are a valuable source of news, contact to the house, and our primary method of distributing the <i>The Green Cow</i>. If you wish to be on the list but are not, please contact the undergrad alumni relations chair. 
