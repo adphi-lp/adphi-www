@@ -64,6 +64,13 @@ Johan Soto<br />
 2023
 </span>
 
+<span class="col">	
+<img src="<%= @getThumbnail('/images/mercury/daniel.jpg', 'brother') %>">	
+Daniel Wisdom<br />	
+<i>Algo-Rythm</i><br />	
+2023	
+</span>	
+
 <span class="col">
 <img src="<%= @getThumbnail('/images/mercury/daishi.jpg', 'brother') %>">
 Daishi Kiyohara<br />
