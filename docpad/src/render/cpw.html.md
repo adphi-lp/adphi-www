@@ -9,7 +9,7 @@ menuOrder: 5
 <h1>CP* 2021! </h1>
 <br />
 
-Welcome to our schedule for CP* 2021! All events are at <a href="https://gather.town/app/Wx0tBFzhgUsOXCxg/adphi">the ADP Gather</a> unless otherwise noted.
+Welcome to our schedule for CP* 2021! All events are at <a href="https://mit.zoom.us/my/adphi">the ADP Zoom</a> unless otherwise noted.
 
 <br>
 
@@ -20,7 +20,6 @@ Welcome to our schedule for CP* 2021! All events are at <a href="https://gather.
 
 Join the bros of ADP as we use Geoguessr to sightsee and guess locations around the Boston Area in "Explore Boston"!
 
-Zoom link: https://mit.zoom.us/my/adphi
 
 <a name="friday"></a> 
 ## Friday, April 16th 
@@ -37,6 +36,7 @@ Are you prepared to philosophize over life's greatest questions? Join the bros o
 
 You ready for all the fun of Poker, Cards Against Humanity, Secret Hitler, and more without any of the papercuts? Join us in our Virtual Gather House for "Gather Game Night"!
 
+Gather link: https://gather.town/app/Wx0tBFzhgUsOXCxg/adphi
 
 <a name="sunday"></a> 
 ## Sunday, April 18th  
@@ -44,5 +44,3 @@ You ready for all the fun of Poker, Cards Against Humanity, Secret Hitler, and m
 #### 3:00pm-5:00pm: Minecraft Missle Wars
 
 Join the bros of ADP as we have a battle for the ages in "Minecraft Missle Wars"!
-
-Zoom link: https://mit.zoom.us/my/adphi
