@@ -88,3 +88,12 @@ img {
   color: #00622c;
   background:#fff;
 }
+
+.white-text{
+  color:#fff;
+}
+
+.white-text:hover, .white-text:active{
+  color: #00c759;
+  text-decoration: none;
+}

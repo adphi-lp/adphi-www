@@ -23,7 +23,7 @@ Our house is the southern half of a beautiful 5 story mansion located at 351 Mas
 </figure>
 
 <p>
-Brothers are easily able to walk to campus in the morning and return to the house for lunch every weekday before heading back to classes in the afternoon. Evenings consist of dinner 5 nights a week, prepared by our very own Chef John, followed by anything from psets to parties to philosophical discussions.</p>
+Brothers are easily able to walk to campus in the morning and return to the house for lunch every weekday before heading back to classes in the afternoon. <!--Evenings consist of dinner 5 nights a week, prepared by our very own Chef John, followed by anything from psets to parties to philosophical discussions.--></p>
 
 
 

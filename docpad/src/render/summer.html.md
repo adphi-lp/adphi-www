@@ -8,7 +8,9 @@ menuOrder: 6
 
 <h1>Summer</h1>
 
-Hello prospective summer boarder! If you’re looking for summer housing then you’ve come to the right place.  Below is everything you need to know about summer at ADPhi and more.  If you have questions that aren’t answered by the website feel free to email <code>adphi-shm@mit.edu</code> and we’ll get right back to you.
+Hello prospective summer boarder! If you’re looking for summer housing then you’ve come to the right place.  Below is everything you need to know about summer at ADPhi and more.  If you have questions that aren’t answered by [this website](https://www.353massave.com) feel free to email <code>adphi-shm@mit.edu</code> and we’ll get right back to you.
+
+<!---
 
 If you already know you want to live here, <b><a href="https://goo.gl/forms/Hw5OVqChm5shtpcw1">click here</a></b> to submit your application! Otherwise, read on for more details.
 
@@ -45,11 +47,13 @@ If you’re interested in living with us for the summer then please fill out the
 
 <div align="left" class="prev">
   <a href="/rush.html">Previous: Rush</a>
-
 </div>
 <br/><br/><br/>
+
 <hr>
 
 [^1]: Checks only
 
 </div>
+
+-->

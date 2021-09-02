@@ -13,6 +13,36 @@ menuOrder: 4
 <!-- <i>*Editor's Note: Dick Wang did not submit a photo, so his photo has been replaced with one of a shirtless Matt Vernacchia.</i> -->
 
 <!-- <br /><br /> -->
+<h2>Hemlock</h2>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/hemlock/sagnik_anupam.jpg', 'brother') %>">
+Sagnik Anupam<br />
+<i>Faust</i><br />
+2024
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/hemlock/kevin_bunn.jpeg', 'brother') %>">
+Kevin Bunn <br />
+<i>Diogenes</i><br />
+2023
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/hemlock/giannis_kaklamanis.jpeg', 'brother') %>">
+Giannis Kaklamanis<br />
+<i>Peeta</i><br />
+2022
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/hemlock/hantoa_tenwhij.jpg', 'brother') %>">
+Hantoa Tenwhij<br />
+<i>McQueen</i><br />
+2021
+</span>
+
 <h2>Mercury</h2>
 
 <span class="col">
