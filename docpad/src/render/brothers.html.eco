@@ -23,9 +23,9 @@ Jackson Flowers<br />
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/janus/dewei_feng.jpeg', 'brother') %>">
-Dewei Feng<br />
-<i>The Wanderer</i><br />
+<img src="<%= @getThumbnail('/images/janus/jason_huynh.jpeg', 'brother') %>">
+Jason Huynh<br />
+<i>Long Dong</i><br />
 2024
 </span>
 
@@ -37,9 +37,9 @@ TJ Calabrese<br />
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/janus/jason_huynh.jpeg', 'brother') %>">
-Jason Huynh<br />
-<i>Long Dong</i><br />
+<img src="<%= @getThumbnail('/images/janus/dewei_feng.jpeg', 'brother') %>">
+Dewei Feng<br />
+<i>The Wanderer</i><br />
 2024
 </span>
 
