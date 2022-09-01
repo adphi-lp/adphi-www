@@ -8,11 +8,9 @@ menuOrder: 6
 
 <h1>Summer</h1>
 
-Hello prospective summer boarder! If you’re looking for summer housing then you’ve come to the right place.  Below is everything you need to know about summer at ADPhi and more.  If you have questions that aren’t answered by [this website](https://www.353massave.com) feel free to email <code>adphi-shm@mit.edu</code> and we’ll get right back to you.
+Hello prospective summer boarder! If you’re looking for summer housing then you’ve come to the right place.  Below is everything you need to know about summer at ADPhi and more.  If you have questions that aren’t answered the website feel free to email <code>adphi-shm@mit.edu</code> and we’ll get right back to you.
 
-<!---
-
-If you already know you want to live here, <b><a href="https://goo.gl/forms/Hw5OVqChm5shtpcw1">click here</a></b> to submit your application! Otherwise, read on for more details.
+If you already know you want to live here, <b><a href="https://forms.gle/oCR9eB9oMs2T3KrC6">click here</a></b> to submit your application! Otherwise, read on for more details.
 
 <h3>Why ADPhi?</h3>
 
@@ -26,9 +24,9 @@ In addition we provide high-speed internet, free printing, and parking on a firs
 
 <h3>Cost</h3>
 
-The cost of a single is $2250 for a three month period and $1950 for a double in that same time period.  Because of space constraints, doubles are in limited supply, so if you’re interested in renting a double please find another potential boarder who is planning to double with you and email <code>adphi-shm@mit.edu</code> with your intention to double.
+A single will range from $2250 - $2850 for the three-month period and a double is $1950 per person for the same time period. Because of space constraints, doubles are in limited supply, so if you’re interested in renting a double, please find another potential boarder who is planning to double with you and email <code>adphi-shm@mit.edu</code> with your intention to double.
 
-A $500 deposit[^1] is required upon signing the contract.  The deposit will be cashed before the beginning of the summer and you will be refunded $500 at the end of your stay.  If you’re not staying for the entire summer then please tell the summer house managers so that they can arrange the cost with you.  Upon signing the contract there will be no refunds unless there are exceptional circumstances.
+A $750 deposit[^1] is required upon signing the contract.  The deposit will be cashed before the beginning of the summer and you will be refunded $750 at the end of your stay.  If you’re not staying for the entire summer then please tell the summer house managers so that they can arrange the cost with you.  Upon signing the contract there will be no refunds unless there are exceptional circumstances.
 
 <h3>Housing Rules</h3>
 
@@ -40,14 +38,11 @@ Residents are encouraged to throw or help throw social events throughout the sum
 
 <h3>Interested?</h3>
 
-If you’re interested in living with us for the summer then please fill out the following application.  We will contact you and give you more information from that point on.  Move-in day for boarders is Monday, May 29th and move-out day is Tuesday, August 22nd.  If you’re looking to stay outside of those dates, or for that matter if you have any other questions or concerns then please email <code>adphi-shm@mit.edu</code> and we’ll get back to you soon.  Hope to hear from you!
+If you’re interested in living with us for the summer then please fill out the following application.  We will contact you and give you more information from that point on.  Move-in day for boarders is Saturday June 11th and move-out day is Saturday August 27. If you’re looking to stay outside of those dates, or for that matter if you have any other questions or concerns then please email <code>adphi-shm@mit.edu</code> and we’ll get back to you soon.  Hope to hear from you!
 
-<h2><a href="None">Click here to apply for summer 2019 housing!</a></h2>
+<h2><a href="https://forms.gle/oCR9eB9oMs2T3KrC6">Click here to apply for Summer 2022 housing!</a></h2>
 <br/><br/>
 
-<div align="left" class="prev">
-  <a href="/rush.html">Previous: Rush</a>
-</div>
 <br/><br/><br/>
 
 <hr>
