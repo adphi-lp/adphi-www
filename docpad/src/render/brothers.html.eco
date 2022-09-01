@@ -10,9 +10,39 @@ menuOrder: 4
 <h1>Brothers</h1>
 <br />
 
-<!-- <i>*Editor's Note: Dick Wang did not submit a photo, so his photo has been replaced with one of a shirtless Matt Vernacchia.</i> -->
+<!-- <i>*Editor's Note: Dick Wang did not submit a photo, so his photo has been replaced with one of a shirtless Matt Vernacchia. (no longer true as of 8/31/22) </i> -->
 
 <!-- <br /><br /> -->
+<h2>Janus</h2>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/janus/jackson_flowers.jpg', 'brother') %>">
+Jackson Flowers<br />
+<i>DYM</i><br />
+2025
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/janus/dewei_feng.jpg', 'brother') %>">
+Dewei Feng<br />
+<i>The Wanderer</i><br />
+2024
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/janus/tj_calabrese.jpg', 'brother') %>">
+TJ Calabrese<br />
+<i>The Master</i><br />
+2024
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/janus/jason_huynh.jpg', 'brother') %>">
+Jason Huynh<br />
+<i>Long Dong (龙洞)</i><br />
+2024
+</span>
+
 <h2>Hemlock</h2>
 
 <span class="col">
