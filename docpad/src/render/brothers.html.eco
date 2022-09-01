@@ -16,30 +16,30 @@ menuOrder: 4
 <h2>Janus</h2>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/janus/jackson_flowers.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/janus/jackson_flowers.jpeg', 'brother') %>">
 Jackson Flowers<br />
 <i>DYM</i><br />
 2025
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/janus/dewei_feng.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/janus/dewei_feng.jpeg', 'brother') %>">
 Dewei Feng<br />
 <i>The Wanderer</i><br />
 2024
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/janus/tj_calabrese.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/janus/tj_calabrese.jpeg', 'brother') %>">
 TJ Calabrese<br />
 <i>The Master</i><br />
 2024
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/janus/jason_huynh.jpg', 'brother') %>">
+<img src="<%= @getThumbnail('/images/janus/jason_huynh.jpeg', 'brother') %>">
 Jason Huynh<br />
-<i>Long Dong (龙洞)</i><br />
+<i>Long Dong</i><br />
 2024
 </span>
 
