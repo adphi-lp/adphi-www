@@ -9,9 +9,10 @@ menuOrder: 5
 <h1>Rush 2022!</h1>
 <br />
 
-Our 2021 Rush is over, and 2022 is yet to begin! Check back in late August to see all of our wonderful events!
-
 <!--
+Our 2021 Rush is over, and 2022 is yet to begin! Check back in late August to see all of our wonderful events!
+-->
+
 
 <img src="/images/rush_schedules/Fall2022.png">
 <img src="/images/rush_schedules/Fall2022card.png">
@@ -104,5 +105,4 @@ We have a ton of slides but we do not know what they are about - all we can guar
 <br />
 <br />
 
--->
 </div>
