@@ -10,6 +10,8 @@ menuOrder: 5
 <br />
 
 <img src="/images/rush_schedules/Fall2023.png">
+<img src ="/images/rush_schedules/rushcardfrontFA23-1.png">
+<img src ="/images/rush_schedules/rushcardfrontFA23-2.png">
 <!--<img src="/images/rush_schedules/Fall2021card.png">-->
 
 <h2> Fall 2023 Rush Schedule </h2>
