@@ -13,7 +13,7 @@ menuOrder: 1
 <br />
  
  <figure>
-<img src="/images/composites/Composite_2019_2020.jpg">
+<img src="/images/composites/Composite_2020_2021.jpeg">
 <figcaption>*Our most recent composite photo*</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ Here at the Lambda Phi chapter of Alpha Delta Phi we ask ourselves these types o
 <p>
 Want to talk about great poetic works? Then come to, or even take part in, one of our literary pub nights to see us live up to our title as a literary fraternity. Want to decide classes for the semester or look for internship and/or research opportunities over the summer? Then browse our academic wiki, updated yearly with study tips and resources, or reach out to our vast award-winning alumni network that stretches from Silicon Valley to Wall Street to academia and all across the world. Want to commit to self-improvement and becoming the very best you can be? Then come drop by 351 Massachusetts Ave. in Cambridge and meet the brothers of Alpha Delta Phi. Find out what it means to be an Alpha Delt.</p>
 
-<p>*Tim Gutterman LP '22, President*</p>
+<p>*Johan Soto LP '24, President*</p>
 
 <p>
 Please take a look through the site to learn more about <a href="/location.html">where we live</a>, <a href="/house.html">our house</a>, <a href="/brothers.html">our brothers</a>, and <a href="/rush.html">our rush schedule</a>. More sections coming soon!</p>

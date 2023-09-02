@@ -9,6 +9,7 @@ menuOrder: 5
 <h1>Rush 2023!</h1>
 <br />
 
+<<<<<<< HEAD
 <img src="/images/rush_schedules/Fall2023.png">
 <!--<img src="/images/rush_schedules/Fall2021card.png">-->
 
@@ -92,4 +93,5 @@ Come find out about our literary traditions as we debate philosophy, embrace the
 
 <br />
 <br />
+
 </div>
