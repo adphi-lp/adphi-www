@@ -13,6 +13,51 @@ menuOrder: 4
 <!-- <i>*Editor's Note: Dick Wang did not submit a photo, so his photo has been replaced with one of a shirtless Matt Vernacchia. (no longer true as of 8/31/22) </i> -->
 
 <!-- <br /><br /> -->
+
+<h2>Argonauts</h2>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/argonauts/andrew_milton.jpeg', 'brother') %>">
+Andrew Milton<br />
+<i>Apollo</i><br />
+2024
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/argonauts/johan_aguilar.jpeg', 'brother') %>">
+Johan Aguilar<br />
+<i>Poseidon</i><br />
+2023
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/argonauts/kenneth_muhammad.jpeg', 'brother') %>">
+Kenneth Muhammad<br />
+<i>Hades</i><br />
+2025
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/argonauts/nima_hyolmo.jpeg', 'brother') %>">
+Ngima Hyolmo<br />
+<i>Hephaestus</i><br />
+2024
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/argonauts/vandell_vatel.jpeg', 'brother') %>">
+Vandell Vatel<br />
+<i>Ares</i><br />
+2026
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/argonauts/joaquin_pischner_gutierrez.jpeg', 'brother') %>">
+Joaquin Pischner Gutierrez<br />
+<i>Zeus</i><br />
+2025
+</span>
+
 <h2>Janus</h2>
 
 <span class="col">
