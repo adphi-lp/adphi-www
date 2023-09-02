@@ -24,7 +24,7 @@ Ever just really wanted some tasty food, but have no time to get it? We get this
 <h4> 12:30 PM: Alpha Delta Phi-esta </h4>
 Kick off rush with our annual fiesta where the food and festivities never end! 
 
-<h4> 5:30 PM: Smash Bros Tournament </h4>
+<h4> 5:30 PM: Lobster Rolls and Clam Chowder </h4>
 54 years have passed since the inception of our famous Lobster Roll dinner, oft stolen but never done justice. Come and partake in an authentic New England experience!
 
 <h4> 10:00 PM: Underground CTF</h4>
