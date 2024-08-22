@@ -10,9 +10,7 @@ menuOrder: 4
 <h1>Siblings</h1>
 <br />
 
-<!-- <i>*Editor's Note: Dick Wang did not submit a photo, so his photo has been replaced with one of a shirtless Matt Vernacchia. (no longer true as of 8/31/22) </i> -->
 
-<!-- <br /><br /> -->
 
 <h2>Argonauts</h2>
 
@@ -23,12 +21,6 @@ Andrew Milton<br />
 2024
 </span>
 
-<span class="col">
-<img src="<%= @getThumbnail('/images/argonauts/johan_aguilar.jpeg', 'brother') %>">
-Johan Aguilar<br />
-<i>Poseidon</i><br />
-2023
-</span>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/argonauts/kenneth_muhammad.jpeg', 'brother') %>">
@@ -90,12 +82,7 @@ Dewei Feng<br />
 
 <h2>Hemlock</h2>
 
-<span class="col">
-<img src="<%= @getThumbnail('/images/hemlock/sagnik_anupam.jpg', 'brother') %>">
-Sagnik Anupam<br />
-<i>Faust</i><br />
-2024
-</span>
+
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/hemlock/kevin_bunn.jpeg', 'brother') %>">
@@ -104,191 +91,10 @@ Kevin Bunn <br />
 2023
 </span>
 
-<span class="col">
-<img src="<%= @getThumbnail('/images/hemlock/giannis_kaklamanis.jpeg', 'brother') %>">
-Giannis Kaklamanis<br />
-<i>Peeta</i><br />
-2022
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/hemlock/hantoa_tenwhij.jpg', 'brother') %>">
-Hantoa Tenwhij<br />
-<i>McQueen</i><br />
-2021
-</span>
-
-<h2>Mercury</h2>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/mercury/william.jpg', 'brother') %>">
-William Hegelmeyer<br />
-<i>George</i><br />
-2023
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/mercury/uzuki.jpg', 'brother') %>">
-Uzuki Horo<br />
-<i>Knockout</i><br />
-2023
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/mercury/shenal.jpg', 'brother') %>">
-Shenal Kotuwewatta<br />
-<i>Smiley</i><br />
-2023
-</span>
-
-<span class="col">	
-<img src="<%= @getThumbnail('/images/mercury/quentin.jpg', 'brother') %>">
-Quentin Thernize<br />
-<i>Big Duck</i><br />
-2023
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/mercury/pawan.jpg', 'brother') %>">
-Pawan Goyal<br />
-<i>Diesel</i><br />
-2023
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/mercury/kinan.jpg', 'brother') %>">
-Kinan Martin<br />
-<i>Robin Hood</i><br />
-2023
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/mercury/johan.jpg', 'brother') %>">
-Johan Soto<br />
-<i>Scranton</i><br />
-2023
-</span>
-
-<span class="col">	
-<img src="<%= @getThumbnail('/images/mercury/daniel.jpg', 'brother') %>">	
-Daniel Wisdom<br />	
-<i>Algo-Rythm</i><br />	
-2023	
-</span>	
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/mercury/daishi.jpg', 'brother') %>">
-Daishi Kiyohara<br />
-<i>Horseman</i><br />
-2023
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/mercury/amani.jpg', 'brother') %>">
-Amani Toussaint<br />
-<i>The Critic</i><br />
-2023
-</span>
-
-
-
-<br /><br />
-<h2>Orpheus</h2>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/talha.jpg', 'brother') %>">
-Talha Faiz<br />
-<i>The Mocha Unicorn</i><br />
-2020
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/Joshua.jpg', 'brother') %>">
-King To "Joshua" Ching<br />
-<i>Joshuology</i><br />
-2021
-</span>
-
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/Peiling.jpeg', 'brother') %>">
-Peiling Jiang<br />
-<i>Passport</i><br />
-2021
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/diogo.jpg', 'brother') %>">
-Diogo Netto<br />
-<i>Onion Rings</i><br />
-2022
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/Ian.jpg', 'brother') %>">
-Ian Limarta<br />
-<i>The Offender</i><br />
-2022
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/Richard.jpeg', 'brother') %>">
-Richard Liu<br />
-<i>Jumped</i><br />
-2022
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/timg.jpg', 'brother') %>">
-Tim Gutterman<br />
-<i>Billy Bounce Baby</i><br />
-2022
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/orpheus/Tom.jpg', 'brother') %>">
-Tommy Heng<br />
-<i>Strange Harry</i><br />
-2022
-</span>
 
 <br /><br />
 <h2>Tuxedos</h2>
 
-<span class="col">
-<img src="<%= @getThumbnail('/images/tuxedos/Best Pledge.jpg', 'brother') %>">
-Jeet "Dark Tempation" Mohapatra<br />
-<i>Home Alone</i><br />
-2019
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/tuxedos/Dave.jpg', 'brother') %>">
-Po-Han "Dave" Lin<br />
-<i>Home Alone 2</i><br />
-2020
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/tuxedos/Anders_Khaykin.jpg', 'brother') %>">
-Anders Khaykin<br />
-<i>Doxology</i><br />
-2020
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/tuxedos/Fuck this guy.jpg', 'brother') %>">
-Elton Lin<br />
-<i>009</i><br />
-2020
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/tuxedos/Sergio_Cuadra.jpg', 'brother') %>">
-Sergio Cudro<br />
-<i>Scotch Only</i><br />
-2021
-</span>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/tuxedos/Sergio Marroquin.jpg', 'brother') %>">
@@ -297,157 +103,6 @@ Sergio "Other Sergio" Marroquin<br />
 2021
 </span>
 
-<span class="col">
-<img src="<%= @getThumbnail('/images/tuxedos/Ray-Tsou.jpg', 'brother') %>">
-Ray Tsou<br />
-<i>Sunshine</i><br />
-2021
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/tuxedos/Debadiits.jpg', 'brother') %>">
-Debaditya "Debadiits" Pramanik<br />
-<i>Dream Dabber</i><br />
-2021
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/tuxedos/matt.jpeg', 'brother') %>">
-Matthew Love<br />
-<i>The Gargoyle</i><br />
-2021
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/tuxedos/rwang.jpeg', 'brother') %>">
-Dick Wang<br />
-<i>The Chosen Wang</i><br />
-2021
-</span>
-
-
-<h2>Poseidon</h2>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/poseidon/alex_patton.jpg', 'brother') %>">
-Alex "The General" Patton<br />
-<i>Blacksmith</i><br />
-2018
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/poseidon/alexis_camacho.jpg', 'brother') %>">
-Alexis Camacho<br />
-<i>Toga</i><br />
-2020
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/poseidon/anuj_apte.png', 'brother') %>">
-Anuj Apte<br />
-<i>Mr. Shit</i><br />
-2019
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/poseidon/arsen_vasilyan.png', 'brother') %>">
-Arsen Vasilyan<br />
-<i>69 and Below</i><br />
-2019
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/poseidon/janak_agrawal.jpg', 'brother') %>">
-Janak Agrawal<br />
-<i>Lady Madonna</i><br />
-2019
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/poseidon/joey_muller.jpg', 'brother') %>">
-Joey Muller<br />
-<i>Rusty Bolt</i><br />
-2019
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/poseidon/johnny_gao.jpg', 'brother') %>">
-Johnny Gao<br />
-<i>He Was Sick</i><br />
-2020
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/poseidon/joseph_kuan.png', 'brother') %>">
-Joseph Kuan<br />
-<i>Sweatervest</i><br />
-2019
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/poseidon/kenny_yang.png', 'brother') %>">
-Kenny Yang<br />
-<i>McCormick</i><br />
-2020
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/poseidon/raimundo_rodriguez.jpg', 'brother') %>">
-Raimundo Rodriguez<br />
-<i>Christmas Carol</i><br />
-2020
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/poseidon/thulith_edirisinghe.png', 'brother') %>">
-Thulith Edirisinghe<br />
-<i>Glow in the Dark</i><br />
-2019
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/poseidon/yotaro_sueoka.png', 'brother') %>">
-Yotaro Sueoka<br />
-<i>Pet Frog</i><br />
-2020
-</span>
-
-<h2>Nomads</h2>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/nomads/chris_hillenbrand.jpg', 'brother') %>">
-Chris Hillenbrand<br />
-<i>911</i><br />
-2019
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/nomads/mike_wang.jpg', 'brother') %>">
-Mike "Legendary" Wang<br />
-<i>The Doppelwanger</i><br />
-2019
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/nomads/tharindu_withanage.jpg', 'brother') %>">
-Tharindu "T-Dawg" Withanage<br />
-<i>Marbles</i><br />
-2019
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/nomads/tugsuu_manlaibaatar.jpg', 'brother') %>">
-Tugsuu Manlaibaatar<br />
-<i>The Headsplitter</i><br />
-2019
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/nomads/wei_wu.jpg', 'brother') %>">
-Wei Wu<br />
-<i>The Frisk Manager</i><br />
-2019
-</span>
 
 
 <br />
