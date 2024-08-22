@@ -29,7 +29,7 @@ Want to talk about great poetic works? Then come to, or even take part in, one o
 <p>*Andrew Milton LP '25, President*</p>
 
 <p>
-Please take a look through the site to learn more about <a href="/location.html">where we live</a>, <a href="/house.html">our house</a>, <a href="/brothers.html">our brothers</a>, and <a href="/rush.html">our rush schedule</a>. More sections coming soon!</p>
+Please take a look through the site to learn more about <a href="/location.html">where we live</a>, <a href="/house.html">our house</a>, <a href="/brothers.html">our brothers</a>, and <a href="/rush.html">our rush schedule</a>.</p>
 
 <br />
 <br />
