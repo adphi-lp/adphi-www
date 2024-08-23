@@ -16,7 +16,7 @@ menuOrder: 4
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/ark/alexander_yang.jpeg', 'brother') %>">
-Alexander Yang<br />
+Alex Yang<br />
 <i>The Fugitive</i><br />
 2027
 </span>
