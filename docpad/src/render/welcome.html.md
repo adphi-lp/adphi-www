@@ -9,13 +9,15 @@ menuOrder: 1
 <div class="content container">
 
 
-<h1>Letter from the President</h1>
+<h1>Welcome to the <span style='color: gold'>Lambda Phi</span> chapter of the <span style='color: green'>Alpha Delta Phi Society</span>!</h1>
 <br />
  
- <figure>
-<img src="/images/composites/Composite_2020_2021.jpeg">
-<figcaption>*Our most recent composite photo*</figcaption>
+<figure>
+<img src="/images/composites/Composite2023.png">
+<figcaption><b>Our most recent composite photo</b></figcaption>
 </figure>
+
+<h2> A letter from our president: </h2>
 
 <p>
 How many times in your life have you found yourself asking yourself the following question: how can I become the best I can be? If you’re like most of us, chances are that, as much as you’d like to ask, there just is never enough time or concentration available to do so. It’s MIT. Classes are challenging, research and extracurriculars are everywhere, and in this vortex time is always escaping. That’s where Alpha Delta Phi comes in.</p>
@@ -29,14 +31,10 @@ Want to talk about great poetic works? Then come to, or even take part in, one o
 <p>*Andrew Milton LP '25, President*</p>
 
 <p>
-Please take a look through the site to learn more about <a href="/location.html">where we live</a>, <a href="/house.html">our house</a>, <a href="/brothers.html">our brothers</a>, and <a href="/rush.html">our rush schedule</a>.</p>
+Please take a look through the site to learn more about <b><a href="/siblings.html">our siblings</a></b> and <b><a href="/rush.html">our rush schedule</a></b>.</p>
 
 <br />
 <br />
-
-<div align="left" class="next">
-  <a href="/location.html">Next: Location</a>
-</div>
 
 
 </div>
