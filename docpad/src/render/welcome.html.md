@@ -13,7 +13,7 @@ menuOrder: 1
 <br />
  
 <figure>
-<img src="/images/composites/Composite2023.jpg">
+<img src="/images/composites/Composite2023.jpeg">
 <figcaption><b>Our most recent composite photo</b></figcaption>
 </figure>
 
