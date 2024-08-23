@@ -12,7 +12,9 @@ menuOrder: 4
 
 
 
-<h2>Argonauts</h2>
+<h2 class="pledgeClassName">Argonauts</h2>
+
+<div class="pledgeClass">
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/argonauts/andrew_milton.jpeg', 'brother') %>">
@@ -49,8 +51,14 @@ Joaquin Pischner Gutierrez<br />
 <i>Zeus</i><br />
 2025
 </span>
+ 
+<p style='display: none'>INVISIBLE INK - DO NOT REMOVE</p>
 
-<h2>Janus</h2>
+</div>
+
+<h2 class="pledgeClassName">Janus</h2>
+
+<div class="pledgeClass">
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/janus/jackson_flowers.jpeg', 'brother') %>">
@@ -80,9 +88,13 @@ Dewei Feng<br />
 2024
 </span>
 
-<h2>Hemlock</h2>
+<p style='display: none'>INVISIBLE INK - DO NOT REMOVE</p>
 
+</div>
 
+<h2 class="pledgeClassName">Hemlock</h2>
+
+<div class="pledgeClass">
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/hemlock/kevin_bunn.jpeg', 'brother') %>">
@@ -91,10 +103,13 @@ Kevin Bunn <br />
 2023
 </span>
 
+<p style='display: none'>INVISIBLE INK - DO NOT REMOVE</p>
 
-<br /><br />
-<h2>Tuxedos</h2>
+</div>
 
+<h2 class="pledgeClassName">Tuxedos</h2>
+
+<div class="pledgeClass">
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/tuxedos/Sergio Marroquin.jpg', 'brother') %>">
@@ -103,13 +118,15 @@ Sergio "Other Sergio" Marroquin<br />
 2021
 </span>
 
+<p style='display: none'>INVISIBLE INK - DO NOT REMOVE</p>
 
+</div>
 
 <br />
 <br />
 
 <div align="left" class="prev">
-  <a href="/house.html">Previous: House</a>
+  <a href="/welcome.html">Previous: Welcome</a>
 </div>
 
 <div align="right" class="next">

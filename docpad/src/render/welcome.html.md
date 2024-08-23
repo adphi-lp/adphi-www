@@ -1,5 +1,5 @@
 ---
-title: "Letter from the President"
+title: "Welcome!"
 layout: "default"
 menuTitle: "Welcome"
 menuOrder: 1

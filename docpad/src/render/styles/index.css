@@ -97,3 +97,9 @@ img {
   color: #00c759;
   text-decoration: none;
 }
+
+.siblingRow {
+  display: grid;
+  grid-auto-flow: row;
+  justify-content: center;
+}
