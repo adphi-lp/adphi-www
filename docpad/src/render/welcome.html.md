@@ -9,11 +9,11 @@ menuOrder: 1
 <div class="content container">
 
 
-<h1>Welcome to the <span style='color: gold'>Lambda Phi</span> chapter of the <span style='color: green'>Alpha Delta Phi Society</span>!</h1>
+<h1 class="centeredHeader">Welcome to the <span style='color: gold'>Lambda Phi</span> chapter of the <span style='color: green'>Alpha Delta Phi Society</span>!</h1>
 <br />
  
 <figure>
-<img src="/images/composites/Composite2023.png">
+<img src="/images/composites/Composite2023.jpeg">
 <figcaption><b>Our most recent composite photo</b></figcaption>
 </figure>
 
@@ -28,10 +28,7 @@ Here at the Lambda Phi chapter of Alpha Delta Phi we ask ourselves these types o
 <p>
 Want to talk about great poetic works? Then come to, or even take part in, one of our literary pub nights to see us live up to our title as a literary fraternity. Want to decide classes for the semester or look for internship and/or research opportunities over the summer? Then browse our academic wiki, updated yearly with study tips and resources, or reach out to our vast award-winning alumni network that stretches from Silicon Valley to Wall Street to academia and all across the world. Want to commit to self-improvement and becoming the very best you can be? Then come drop by 351 Massachusetts Ave. in Cambridge and meet the brothers of Alpha Delta Phi. Find out what it means to be an Alpha Delt.</p>
 
-<p>*Andrew Milton LP '25, President*</p>
-
-<p>
-Please take a look through the site to learn more about <b><a href="/siblings.html">our siblings</a></b> and <b><a href="/rush.html">our rush schedule</a></b>.</p>
+<p style='font-size: 1.5em; text-align: right'><i>Andrew Milton</i>, Chapter President</p>
 
 <br />
 <br />

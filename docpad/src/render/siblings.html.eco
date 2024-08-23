@@ -7,7 +7,7 @@ menuOrder: 4
 
 <div class="content-big container">
 
-<h1>Siblings</h1>
+<h1 class="centeredHeader">Siblings</h1>
 <br />
 
 <h2 class="pledgeClassName">Ark</h2>
