@@ -36,6 +36,14 @@ Ellie Lei<br />
 </span>
 
 <span class="col">
+<img src="<%= @getThumbnail('/images/ark/marina_ten_have.jpeg', 'brother') %>">
+Marina Ten Have<br />
+<i>Glass Have Full</i><br />
+2025
+</span>
+
+
+<span class="col">
 <img src="<%= @getThumbnail('/images/ark/tessa_everett.jpeg', 'brother') %>">
 Tessa Everett<br />
 <i>Giggles</i><br />
