@@ -20,13 +20,13 @@ menuOrder: 1
 <h2> A letter from our president: </h2>
 
 <p>
-How many times in your life have you found yourself asking yourself the following question: how can I become the best I can be? If you’re like most of us, chances are that, as much as you’d like to ask, there just is never enough time or concentration available to do so. It’s MIT. Classes are challenging, research and extracurriculars are everywhere, and in this vortex time is always escaping. That’s where Alpha Delta Phi comes in.</p>
-
+After your first semester at MIT, you realize that things can be tough without support. However, with all the classwork, research, and extracurriculars, it seems like no one has any time to give you a hand when you need it. Now - what if I told you there’s a community where its members are dedicated to each other’s continued success and improvement, while also finding time to have fun in each other’s company? <b>That’s where the <span style="color: green">Alpha Delta Phi Society</span> comes in</b>.
+</p>
+<p> 
+At the <b><span style='color:gold'>Lambda Phi</span></b> Chapter of the Alpha Delta Phi Society, we strive to support each other’s personal, social, and academic goals through bond of siblinghood. Even as we adapt and add new pages to our story, this mission has remained. Maintaining a diverse group of cultures and backgrounds, and most recently spreading into diversity of gender, we’re able to exchange new perspectives and grow as a collective. Even though we each come from different paths, <b>we are all connected by our shared experiences at Lambda Phi</b>.
 <p>
-Here at the Lambda Phi chapter of Alpha Delta Phi we ask ourselves these types of questions and take action and inspiration from them. Boasting a diverse population of multiple cultures and personalities, ADPhi’s mission is to have every single member become the best that they can be. Each brother, by making a promise to brotherhood, is committed to supporting his brethren in striving towards academic, ethical, and personal goals, all while maintaining a vibrant and eclectic social atmosphere that accommodates a multitude of interests.</p>
-
-<p>
-Want to talk about great poetic works? Then come to, or even take part in, one of our literary pub nights to see us live up to our title as a literary fraternity. Want to decide classes for the semester or look for internship and/or research opportunities over the summer? Then browse our academic wiki, updated yearly with study tips and resources, or reach out to our vast award-winning alumni network that stretches from Silicon Valley to Wall Street to academia and all across the world. Want to commit to self-improvement and becoming the very best you can be? Then come drop by 351 Massachusetts Ave. in Cambridge and meet the brothers of Alpha Delta Phi. Find out what it means to be an Alpha Delt.</p>
+Wondering what you can expect to experience as a sibling? Well maybe you’d like to hike a mountain with fellow sibs on our retreats, have a great time while being dripped out at our formals, perform your favorite songs in our house band, or discuss an interesting read at a book club. Maybe you’re ambitious and decide to run for our many officer positions, gaining valuable experience running an organization, and directly shaping the house according to your vision. Or maybe you would just enjoy the company of your siblings while working on PSETs in our lounges or chatting over dinner. No matter how you decide to spend your time with us, the most important thing is that you’ll always have a place to call home, both during your time at MIT or visiting as an alumnus. So, if you’re interested, swing by 351 Massachusetts Ave. and meet the siblings of the Alpha Delta Phi Society. <b>Find out what it means to be a member of our family</b>.
+</p>
 
 <p style='font-size: 1.5em; text-align: right'><i>Andrew Milton</i>, Chapter President</p>
 
