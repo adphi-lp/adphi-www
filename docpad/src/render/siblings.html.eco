@@ -15,10 +15,24 @@ menuOrder: 4
 <div class="pledgeClass">
 
 <span class="col">
+<img src="<%= @getThumbnail('/images/ark/ellie_lei.jpeg', 'brother') %>">
+Ellie Lei<br />
+<i>L</i><br />
+2026
+</span>
+
+<span class="col">
 <img src="<%= @getThumbnail('/images/ark/alexander_yang.jpeg', 'brother') %>">
 Alex Yang<br />
 <i>The Fugitive</i><br />
 2027
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/ark/marina_ten_have.jpeg', 'brother') %>">
+Marina Ten Have<br />
+<i>Glass Have Full</i><br />
+2025
 </span>
 
 <span class="col">
@@ -29,25 +43,17 @@ Daniel Sanango<br />
 </span>
 
 <span class="col">
-<img src="<%= @getThumbnail('/images/ark/ellie_lei.jpeg', 'brother') %>">
-Ellie Lei<br />
-<i>L</i><br />
-2026
-</span>
-
-<span class="col">
-<img src="<%= @getThumbnail('/images/ark/marina_ten_have.jpeg', 'brother') %>">
-Marina Ten Have<br />
-<i>Glass Have Full</i><br />
-2025
-</span>
-
-
-<span class="col">
 <img src="<%= @getThumbnail('/images/ark/tessa_everett.jpeg', 'brother') %>">
 Tessa Everett<br />
 <i>Giggles</i><br />
 2026
+</span>
+
+<span class="col">
+<img src="<%= @getThumbnail('/images/ark/eleonora_carta.jpeg', 'brother') %>">
+Eleonora Carta<br />
+<i>Rizz Minion</i><br />
+2027
 </span>
 
 </div>

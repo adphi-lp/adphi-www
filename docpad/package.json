@@ -18,7 +18,7 @@
   },
   "main": "node_modules/.bin/docpad-server",
   "scripts": {
-    "start": "node_modules/.bin/docpad-server"
+    "start": "docpad-server"
   },
   "devDependencies": {
     "markdown-it-footnote": "^3.0.1"
