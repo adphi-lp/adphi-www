@@ -6,12 +6,10 @@ menuOrder: 5
 ---
 <div class="content container">
 
-<h1 class="centeredHeader">Fall Rush 2024 Schedule</h1>
-<h3 class="centeredHeader">We are at <b>351 Massachusetts Avenue</b>, just a short walk from campus.</h3>
+<h1 class="centeredHeader" style="color: green">Fall Rush 2024 Schedule</h1>
+<h3 class="centeredHeader" style="color: gold"><b>351 Massachusetts Avenue</b></h3>
 
 <img src='/images/rush_schedules/rush_2024.png'></img>
-
-<h3 class="centeredHeader">If you would like any additional information regarding rush, contact our Rush Chair Jackson Flowers at <a href="mailto:flowersj@mit.edu">flowersj@mit.edu</a>.</h3>
 <br />
 <br />
 
