@@ -11,7 +11,7 @@ menuOrder: 5
 
 <img src='/images/rush_schedules/rush_2024.png'></img>
 
-<h2 class="centeredHeader">If you would like any additional information regarding rush, contact our Rush Chair Jackson Flowers at <a href="mailto:flowersj@mit.edu">flowersj@mit.edu</a>.</h2>
+<h3 class="centeredHeader">If you would like any additional information regarding rush, contact our Rush Chair Jackson Flowers at <a href="mailto:flowersj@mit.edu">flowersj@mit.edu</a>.</h3>
 <br />
 <br />
 
