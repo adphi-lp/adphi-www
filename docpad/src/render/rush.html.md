@@ -7,6 +7,7 @@ menuOrder: 5
 <div class="content container">
 
 <h1 class="centeredHeader">Fall Rush 2024 Schedule</h1>
+<h3 class="centeredHeader">We are at <b>351 Massachusetts Avenue</b>, just a short walk from campus.</h3>
 
 <img src='/images/rush_schedules/rush_2024.png'></img>
 
