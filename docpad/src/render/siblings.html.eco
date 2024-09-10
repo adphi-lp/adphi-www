@@ -18,6 +18,7 @@ menuOrder: 4
 <img src="<%= @getThumbnail('/images/ark/ellie_lei.jpeg', 'brother') %>">
 Ellie Lei, 2026<br />
 <i>L</i><br />
+<p class="officerPosition">Literary Chair</p>
 </span>
 
 <span class="col">
@@ -151,9 +152,8 @@ Kevin Bunn, 2024<br />
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/tuxedos/Sergio Marroquin.jpg', 'brother') %>">
-Sergio "Other Sergio" Marroquin<br />
+Sergio "Other Sergio" Marroquin, 2025<br />
 <i>Szechuan</i><br />
-2021
 </span>
 
 <p style='display: none'>INVISIBLE INK - DO NOT REMOVE</p>
