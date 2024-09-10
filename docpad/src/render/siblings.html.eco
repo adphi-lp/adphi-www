@@ -152,7 +152,7 @@ Kevin Bunn, 2024<br />
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/tuxedos/Sergio Marroquin.jpg', 'brother') %>">
-Sergio "Other Sergio" Marroquin, 2025<br />
+Sergio Marroquin, 2025<br />
 <i>Szechuan</i><br />
 </span>
 
