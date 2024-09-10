@@ -50,11 +50,20 @@ Tessa Everett<br />
 </span>
 
 <span class="col">
+<img src="<%= @getThumbnail('/images/ark/frankie_schulte.jpeg', 'brother') %>">
+Frankie Schulte<br />
+<i>Tom Foolery</i><br />
+2025
+</span>
+
+<span class="col">
 <img src="<%= @getThumbnail('/images/ark/eleonora_carta.jpeg', 'brother') %>">
 Eleonora Carta<br />
 <i>Rizz Minion</i><br />
 2027
 </span>
+
+
 
 </div>
 
