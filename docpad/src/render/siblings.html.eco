@@ -18,7 +18,6 @@ menuOrder: 4
 <img src="<%= @getThumbnail('/images/ark/ellie_lei.jpeg', 'brother') %>">
 Ellie Lei, 2026<br />
 <i>L</i><br />
-<p class="officerPosition">Literary Chair</p>
 </span>
 
 <span class="col">
@@ -140,6 +139,7 @@ Dewei Feng, 2024<br />
 <img src="<%= @getThumbnail('/images/hemlock/kevin_bunn.jpeg', 'brother') %>">
 Kevin Bunn, 2024<br />
 <i>Diogenes</i><br />
+<p class="officerPosition">Webmaster</p>
 </span>
 
 <p style='display: none'>INVISIBLE INK - DO NOT REMOVE</p>
