@@ -16,51 +16,44 @@ menuOrder: 4
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/ark/ellie_lei.jpeg', 'brother') %>">
-Ellie Lei<br />
+Ellie Lei, 2026<br />
 <i>L</i><br />
-2026
 </span>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/ark/alexander_yang.jpeg', 'brother') %>">
-Alex Yang<br />
+Alex Yang, 2027<br />
 <i>The Fugitive</i><br />
-2027
 </span>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/ark/marina_ten_have.jpeg', 'brother') %>">
-Marina Ten Have<br />
+Marina Ten Have, 2025<br />
 <i>Glass Have Full</i><br />
-2025
 </span>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/ark/daniel_sanango.jpeg', 'brother') %>">
-Daniel Sanango<br />
+Daniel Sanango, 2027<br />
 <i>PG-13</i><br />
-2027
 </span>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/ark/tessa_everett.jpeg', 'brother') %>">
-Tessa Everett<br />
+Tessa Everett, 2026<br />
 <i>Giggles</i><br />
-2026
 </span>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/ark/frankie_schulte.jpeg', 'brother') %>">
-Frankie Schulte<br />
+Frankie Schulte, 2025<br />
 <i>Tom Foolery</i><br />
-2025
 </span>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/ark/eleonora_carta.jpeg', 'brother') %>">
-Eleonora Carta<br />
+Eleonora Carta, 2027<br />
 <i>Rizz Minion</i><br />
-2027
 </span>
 
 
@@ -73,38 +66,33 @@ Eleonora Carta<br />
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/argonauts/andrew_milton.jpeg', 'brother') %>">
-Andrew Milton<br />
+Andrew Milton, 2024<br />
 <i>Apollo</i><br />
-2024
 </span>
 
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/argonauts/kenneth_muhammad.jpeg', 'brother') %>">
-Kenneth Muhammad<br />
+Kenneth Muhammad, 2025<br />
 <i>Hades</i><br />
-2025
 </span>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/argonauts/nima_hyolmo.jpeg', 'brother') %>">
-Ngima Hyolmo<br />
+Ngima Hyolmo, 2024<br />
 <i>Hephaestus</i><br />
-2024
 </span>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/argonauts/vandell_vatel.jpeg', 'brother') %>">
-Vandell Vatel<br />
+Vandell Vatel, 2026<br />
 <i>Ares</i><br />
-2026
 </span>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/argonauts/joaquin_pischner_gutierrez.jpeg', 'brother') %>">
-Joaquin Pischner Gutierrez<br />
+Joaquin Pischner Gutierrez, 2026<br />
 <i>Zeus</i><br />
-2025
 </span>
  
 <p style='display: none'>INVISIBLE INK - DO NOT REMOVE</p>
@@ -117,30 +105,26 @@ Joaquin Pischner Gutierrez<br />
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/janus/jackson_flowers.jpeg', 'brother') %>">
-Jackson Flowers<br />
+Jackson Flowers, 2025<br />
 <i>DYM</i><br />
-2025
 </span>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/janus/jason_huynh.jpeg', 'brother') %>">
-Jason Huynh<br />
+Jason Huynh, 2026<br />
 <i>Long Dong</i><br />
-2024
 </span>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/janus/tj_calabrese.jpeg', 'brother') %>">
-TJ Calabrese<br />
+TJ Calabrese, 2024<br />
 <i>The Master</i><br />
-2024
 </span>
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/janus/dewei_feng.jpeg', 'brother') %>">
-Dewei Feng<br />
+Dewei Feng, 2024<br />
 <i>The Wanderer</i><br />
-2024
 </span>
 
 <p style='display: none'>INVISIBLE INK - DO NOT REMOVE</p>
@@ -153,9 +137,8 @@ Dewei Feng<br />
 
 <span class="col">
 <img src="<%= @getThumbnail('/images/hemlock/kevin_bunn.jpeg', 'brother') %>">
-Kevin Bunn <br />
+Kevin Bunn, 2024<br />
 <i>Diogenes</i><br />
-2023
 </span>
 
 <p style='display: none'>INVISIBLE INK - DO NOT REMOVE</p>
